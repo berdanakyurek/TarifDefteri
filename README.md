@@ -1,23 +1,26 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#orga203bcf)
-    1.  [Soğan Kebabı](#org0a5f547)
-2.  [Tavuk Yemekleri](#orgec2cf05)
-    1.  [Kayısı Marmelatlı Tavuk](#orgdac33af)
-    2.  [Soya Soslu Sebzeli Tavuk](#orgfb54b9a)
-3.  [Kahvaltılıklar](#orgadf0541)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgf04381a)
-    2.  [Avokadolu Yumurta Dolması](#orgef593e2)
+1.  [Et Yemekleri](#org380ef43)
+    1.  [Soğan Kebabı](#org56588a7)
+2.  [Tavuk Yemekleri](#orge5fdf6b)
+    1.  [Kayısı Marmelatlı Tavuk](#org63130d5)
+    2.  [Soya Soslu Sebzeli Tavuk](#org6cb7bbc)
+3.  [Kahvaltılıklar](#orgcf8b835)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org470211c)
+    2.  [Avokadolu Yumurta Dolması](#orgce95d07)
+4.  [Tatlılar](#org71867bc)
+    1.  [Frambuazlı Yaş Pasta](#org10d112f)
+    2.  [Leblebili Kurabiye](#orgcf9151e)
 
 
 
-<a id="orga203bcf"></a>
+<a id="org380ef43"></a>
 
 # Et Yemekleri
 
 
-<a id="org0a5f547"></a>
+<a id="org56588a7"></a>
 
 ## Soğan Kebabı
 
@@ -56,12 +59,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200 derece fırında 1 saat pişir.
 
 
-<a id="orgec2cf05"></a>
+<a id="orge5fdf6b"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="orgdac33af"></a>
+<a id="org63130d5"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -72,7 +75,7 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 
 ### Besin Değerleri
 
-Bir parçada:
+Bir parçada (tarifin tamamı 12 parça):
 
 -   159 kcal
 -   22 g protein
@@ -101,7 +104,7 @@ Bir parçada:
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="orgfb54b9a"></a>
+<a id="org6cb7bbc"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -141,12 +144,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="orgadf0541"></a>
+<a id="orgcf8b835"></a>
 
 # Kahvaltılıklar
 
 
-<a id="orgf04381a"></a>
+<a id="org470211c"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -186,7 +189,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="orgef593e2"></a>
+<a id="orgce95d07"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -225,4 +228,86 @@ Bir parçada (yarım yumurta):
 -   Yumurta sarılarına avokadoyu ve sarımsağı ekleyip çatalla iyice ez.
 -   Üzerine jalepeno, soğan ve domatesi ekleyip hafifçe karıştır.
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
+
+
+<a id="org71867bc"></a>
+
+# Tatlılar
+
+
+<a id="org10d112f"></a>
+
+## Frambuazlı Yaş Pasta
+
+-   Zorluk: Zor
+
+
+### Besin Değerleri
+
+Bir dilimde (tüm tarif 8 dilim):
+
+-   411 kcal
+-   12 g protein
+-   81 g karbonhidrat
+-   48 g yağ
+
+
+### Malzemeler
+
+-   150 gr tereyağı
+-   300 gr toz şeker
+-   210 gr un
+-   50 gr kakao
+-   1 yemek kaşığı granül kahve
+-   160 ml sıcak su
+-   70 g yoğurt
+-   3 adet orta boy yumurta
+-   1 çay kaşığı kabartma tozu
+-   Bir tutam tuz
+-   300 g frambuaz (tahmini)
+
+1.  İç Dolgu ve Sıva
+
+    -   400 ml krema
+    -   200 g bitter çikolata
+
+2.  Üst Ganaj
+
+    -   50 ml krema
+    -   50 g bitter çikolata
+
+
+### Tarif
+
+TODO: buradan izleyip yaz
+<https://www.youtube.com/watch?v=7msRz9cf38c&t=401s>
+
+
+<a id="orgcf9151e"></a>
+
+## Leblebili Kurabiye
+
+TODO: oranlar güncellenecek
+
+-   Zorluk: Orta
+
+
+### Besin Değerleri
+
+
+### Malzemeler
+
+-   1.5 su bardağı leblebi tozu
+-   1 su bardağı pudra şekeri
+-   1 su bardağı sıvı yağ
+-   1 su bardağı un
+
+
+### Tarif
+
+-   Leblebi tozu yoksa sarı leblebileri robotta un haline getir.
+-   Leblebi tozu, sıvı yağ ve pudra şekerini iyice karıştır.
+-   Karışımın üzerine azar azar un ekleyerek yavaş yavaş yoğur (Un miktarı değişebilir).
+-   Yağlı kağıt serili tepsi üzerine dondurma kaşığı ile şekil vererek diz.
+-   160 derece fırında 15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 

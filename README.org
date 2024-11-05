@@ -35,7 +35,7 @@
    + Zorluk: Kolay
    [[./images/kayisi-marmelatli-tavuk.jpg]]
 *** Besin Değerleri
-    Bir parçada:
+    Bir parçada (tarifin tamamı 12 parça):
     + 159 kcal
     + 22 g protein
     + 3 g karbonhidrat
@@ -146,3 +146,60 @@
     + Yumurta sarılarına avokadoyu ve sarımsağı ekleyip çatalla iyice ez.
     + Üzerine jalepeno, soğan ve domatesi ekleyip hafifçe karıştır.
     + Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
+
+* Tatlılar
+
+** Frambuazlı Yaş Pasta
+   + Zorluk: Zor
+
+*** Besin Değerleri
+    Bir dilimde (tüm tarif 8 dilim):
+    + 411 kcal
+    + 12 g protein
+    + 81 g karbonhidrat
+    + 48 g yağ
+
+*** Malzemeler
+
+    + 150 gr tereyağı
+    + 300 gr toz şeker
+    + 210 gr un
+    + 50 gr kakao
+    + 1 yemek kaşığı granül kahve
+    + 160 ml sıcak su
+    + 70 g yoğurt
+    + 3 adet orta boy yumurta
+    + 1 çay kaşığı kabartma tozu
+    + Bir tutam tuz
+    + 300 g frambuaz (tahmini)
+
+**** İç Dolgu ve Sıva
+    + 400 ml krema
+    + 200 g bitter çikolata
+
+**** Üst Ganaj
+    + 50 ml krema
+    + 50 g bitter çikolata
+
+*** Tarif
+    TODO: buradan izleyip yaz
+    https://www.youtube.com/watch?v=7msRz9cf38c&t=401s
+
+** Leblebili Kurabiye
+   TODO: oranlar güncellenecek
+   + Zorluk: Orta
+
+*** Besin Değerleri
+
+*** Malzemeler
+    + 1.5 su bardağı leblebi tozu
+    + 1 su bardağı pudra şekeri
+    + 1 su bardağı sıvı yağ
+    + 1 su bardağı un
+
+*** Tarif
+    + Leblebi tozu yoksa sarı leblebileri robotta un haline getir.
+    + Leblebi tozu, sıvı yağ ve pudra şekerini iyice karıştır.
+    + Karışımın üzerine azar azar un ekleyerek yavaş yavaş yoğur (Un miktarı değişebilir).
+    + Yağlı kağıt serili tepsi üzerine dondurma kaşığı ile şekil vererek diz.
+    + 160 derece fırında 15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
