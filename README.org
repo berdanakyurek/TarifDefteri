@@ -27,11 +27,20 @@
     + 220 derece fırında 40 dakika pişir.
     + 10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
+** Soya Soslu Tavuk
+   + Zorluk: Orta
+
 * Kahvaltılıklar
 
 ** Füme Kaburga Ve Cheddarlı Yumurta Dolması
    + Zorluk: Orta
 
+*** Besin Değerleri
+    Bir parçada (yarım yumurta):
+    + 112 kcal
+    + 8 g protein
+    + 1 g karbonhidrat
+    + 8 g yağ
 *** Malzemeler
     + 3 yumurta
     + 3 yemek kaşığı ekşi krema
@@ -53,6 +62,13 @@
 
 ** Avokadolu Yumurta Dolması
    + Zorluk: Orta
+
+*** Besin Değerleri
+    Bir parçada (yarım yumurta):
+    + 73 kcal
+    + 4 g protein
+    + 2 g karbonhidrat
+    + 5 g yağ
 
 *** Malzemeler
     + 3 yumurta
