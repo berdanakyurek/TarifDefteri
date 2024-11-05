@@ -1,6 +1,6 @@
 * Tavuk Yemekleri
 ** Kayısı Marmelatlı Tavuk
-   [[./img/a.jpg]]
+   [[./images/kayisi-marmelatli-tavuk.webp]]
 *** Besin Değerleri
     Bir parçada:
     + 159 kcal
