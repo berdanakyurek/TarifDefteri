@@ -1,20 +1,21 @@
 
 # İçindekiler
 
-1.  [Tavuk Yemekleri](#org0dc12cb)
-    1.  [Kayısı Marmelatlı Tavuk](#org20ade4f)
-2.  [Kahvaltılıklar](#org93dc2e3)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgbceb8e9)
-    2.  [Avokadolu Yumurta Dolması](#org24f0b81)
+1.  [Tavuk Yemekleri](#orgd9fe2da)
+    1.  [Kayısı Marmelatlı Tavuk](#org35fb18b)
+    2.  [Soya Soslu Sebzeli Tavuk](#org4fd11ff)
+2.  [Kahvaltılıklar](#orgc4cb6cc)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgce9bf30)
+    2.  [Avokadolu Yumurta Dolması](#org0797149)
 
 
 
-<a id="org0dc12cb"></a>
+<a id="orgd9fe2da"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="org20ade4f"></a>
+<a id="org35fb18b"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -54,16 +55,66 @@ Bir parçada:
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="org93dc2e3"></a>
+<a id="org4fd11ff"></a>
+
+## Soya Soslu Sebzeli Tavuk
+
+-   Zorluk: Orta
+
+
+### Besin Değerleri
+
+Bir porsiyonda (tarifin tamamı 5 porsiyon):
+
+-   252 kcal
+-   36 g protein
+-   12 g karbonhidrat
+-   7 g yağ
+
+
+### Malzemeler
+
+-   500 gram tavuk göğsü
+-   4 yemek kaşığı + 2 yemek kaşığı soya sosu
+-   3 yemek kaşığı sirke
+-   2 yemek kaşığı nişasta
+-   1 kabak
+-   1 kapya biber
+-   500 g mantar
+-   1 yemek kaşığı sıvı yağ
+
+
+### Tarif
+
+-   Tavuğu kuşbaşı doğra.
+-   Tavuğu nişasta, 4 yemek kaşığı soya sosu ve sirke ile karıştırıp buzdolabında birkaç saat beklet.
+-   Tavada yağı kızdırıp tavukları ekle.
+-   Tavuklar suyunu çekene kadar karıştırarak pişir.
+-   Kabakları ve biberleri jülyen doğrayıp tavuklara ekle, bir süre pişir.
+-   Sebzelerle birlikte 2 yemek kaşığı soya sosu ekle.
+-   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
+
+
+<a id="orgc4cb6cc"></a>
 
 # Kahvaltılıklar
 
 
-<a id="orgbceb8e9"></a>
+<a id="orgce9bf30"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
 -   Zorluk: Orta
+
+
+### Besin Değerleri
+
+Bir parçada (yarım yumurta):
+
+-   112 kcal
+-   8 g protein
+-   1 g karbonhidrat
+-   8 g yağ
 
 
 ### Malzemeler
@@ -89,11 +140,21 @@ Bir parçada:
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org24f0b81"></a>
+<a id="org0797149"></a>
 
 ## Avokadolu Yumurta Dolması
 
 -   Zorluk: Orta
+
+
+### Besin Değerleri
+
+Bir parçada (yarım yumurta):
+
+-   73 kcal
+-   4 g protein
+-   2 g karbonhidrat
+-   5 g yağ
 
 
 ### Malzemeler

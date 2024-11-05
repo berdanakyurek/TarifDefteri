@@ -11,6 +11,7 @@
     + 22 g protein
     + 3 g karbonhidrat
     + 5 g yağ
+
 *** Malzemeler
     + 12 tavuk kalça
     + 9 yemek kaşığı kayısı marmelatı
@@ -27,8 +28,35 @@
     + 220 derece fırında 40 dakika pişir.
     + 10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
-** Soya Soslu Tavuk
+** Soya Soslu Sebzeli Tavuk
    + Zorluk: Orta
+
+*** Besin Değerleri
+    Bir porsiyonda (tarifin tamamı 5 porsiyon):
+    + 252 kcal
+    + 36 g protein
+    + 12 g karbonhidrat
+    + 7 g yağ
+
+*** Malzemeler
+
+    + 500 gram tavuk göğsü
+    + 4 yemek kaşığı + 2 yemek kaşığı soya sosu
+    + 3 yemek kaşığı sirke
+    + 2 yemek kaşığı nişasta
+    + 1 kabak
+    + 1 kapya biber
+    + 500 g mantar
+    + 1 yemek kaşığı sıvı yağ
+
+*** Tarif
+    + Tavuğu kuşbaşı doğra.
+    + Tavuğu nişasta, 4 yemek kaşığı soya sosu ve sirke ile karıştırıp buzdolabında birkaç saat beklet.
+    + Tavada yağı kızdırıp tavukları ekle.
+    + Tavuklar suyunu çekene kadar karıştırarak pişir.
+    + Kabakları ve biberleri jülyen doğrayıp tavuklara ekle, bir süre pişir.
+    + Sebzelerle birlikte 2 yemek kaşığı soya sosu ekle.
+    + Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 * Kahvaltılıklar
 
