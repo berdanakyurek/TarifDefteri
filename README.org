@@ -3,8 +3,8 @@
 
 * Tavuk Yemekleri
 ** Kayısı Marmelatlı Tavuk
-   Yapıldığı tarih: <2024-11-04 Mon>
-   Zorluk: Kolay
+   + Yapıldığı tarih: <2024-11-04 Mon>
+   + Zorluk: Kolay
    [[./images/kayisi-marmelatli-tavuk.jpg]]
 *** Besin Değerleri
     Bir parçada:
