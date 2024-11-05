@@ -1,26 +1,26 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#org380ef43)
-    1.  [Soğan Kebabı](#org56588a7)
-2.  [Tavuk Yemekleri](#orge5fdf6b)
-    1.  [Kayısı Marmelatlı Tavuk](#org63130d5)
-    2.  [Soya Soslu Sebzeli Tavuk](#org6cb7bbc)
-3.  [Kahvaltılıklar](#orgcf8b835)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org470211c)
-    2.  [Avokadolu Yumurta Dolması](#orgce95d07)
-4.  [Tatlılar](#org71867bc)
-    1.  [Frambuazlı Yaş Pasta](#org10d112f)
-    2.  [Leblebili Kurabiye](#orgcf9151e)
+1.  [Et Yemekleri](#org5a12b11)
+    1.  [Soğan Kebabı](#org5cc20e0)
+2.  [Tavuk Yemekleri](#orgad9cebd)
+    1.  [Kayısı Marmelatlı Tavuk](#orgee45009)
+    2.  [Soya Soslu Sebzeli Tavuk](#org42fb3eb)
+3.  [Kahvaltılıklar](#org96f85f6)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org3b2bdab)
+    2.  [Avokadolu Yumurta Dolması](#org67fef90)
+4.  [Tatlılar](#org5c963c2)
+    1.  [Frambuazlı Yaş Pasta](#org676c0b5)
+    2.  [Leblebili Kurabiye](#org77b6bcb)
 
 
 
-<a id="org380ef43"></a>
+<a id="org5a12b11"></a>
 
 # Et Yemekleri
 
 
-<a id="org56588a7"></a>
+<a id="org5cc20e0"></a>
 
 ## Soğan Kebabı
 
@@ -59,12 +59,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200 derece fırında 1 saat pişir.
 
 
-<a id="orge5fdf6b"></a>
+<a id="orgad9cebd"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="org63130d5"></a>
+<a id="orgee45009"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -104,7 +104,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="org6cb7bbc"></a>
+<a id="org42fb3eb"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -144,12 +144,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="orgcf8b835"></a>
+<a id="org96f85f6"></a>
 
 # Kahvaltılıklar
 
 
-<a id="org470211c"></a>
+<a id="org3b2bdab"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -189,7 +189,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="orgce95d07"></a>
+<a id="org67fef90"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -230,12 +230,12 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org71867bc"></a>
+<a id="org5c963c2"></a>
 
 # Tatlılar
 
 
-<a id="org10d112f"></a>
+<a id="org676c0b5"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -283,7 +283,7 @@ TODO: buradan izleyip yaz
 <https://www.youtube.com/watch?v=7msRz9cf38c&t=401s>
 
 
-<a id="orgcf9151e"></a>
+<a id="org77b6bcb"></a>
 
 ## Leblebili Kurabiye
 
@@ -309,5 +309,5 @@ TODO: oranlar güncellenecek
 -   Leblebi tozu, sıvı yağ ve pudra şekerini iyice karıştır.
 -   Karışımın üzerine azar azar un ekleyerek yavaş yavaş yoğur (Un miktarı değişebilir).
 -   Yağlı kağıt serili tepsi üzerine dondurma kaşığı ile şekil vererek diz.
--   160 derece fırında 15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
+-   180 derece fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
