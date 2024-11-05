@@ -190,6 +190,7 @@
    + Zorluk: Orta
 
 *** Besin Değerleri
+    TODO
 
 *** Malzemeler
     + 1.5 su bardağı leblebi tozu
@@ -203,3 +204,31 @@
     + Karışımın üzerine azar azar un ekleyerek yavaş yavaş yoğur (Un miktarı değişebilir).
     + Yağlı kağıt serili tepsi üzerine dondurma kaşığı ile şekil vererek diz.
     + 180 derece fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
+
+** San Sebastian Cheesecake
+   + Zorluk: Kolay
+
+*** Besin Değerleri
+    Bir dilimde (tüm tarif 8 dilim):
+    + 507 kcal
+    + 9 g protein
+    + 33 g karbonhidrat
+    + 38 g yağ
+
+*** Malzemeler
+    + 400 g Pınar Beyaz
+    + 200 g Labne
+    + 1 su bardağından biraz fazla şeker (200 g)
+    + 4 yumurta
+    + 2 yemek kaşığı un
+    + 400 ml krema
+
+*** Tarif
+    + Beyaz peynir, labne ve şekeri şekerin çıtırlığı gidene kadar çırp.
+    + Yumurtaları teker teker ekleyerek çırp.
+    + Unu ekleyip çırp.
+    + Krema ekleyip çırp.
+    + Kalıbı yağlı kağıt ile kapla.
+    + Hamuru kalıba dök.
+    + 200 derece fırında 45 dakika pişir.
+    + Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.

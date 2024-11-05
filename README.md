@@ -1,26 +1,27 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#org5a12b11)
-    1.  [Soğan Kebabı](#org5cc20e0)
-2.  [Tavuk Yemekleri](#orgad9cebd)
-    1.  [Kayısı Marmelatlı Tavuk](#orgee45009)
-    2.  [Soya Soslu Sebzeli Tavuk](#org42fb3eb)
-3.  [Kahvaltılıklar](#org96f85f6)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org3b2bdab)
-    2.  [Avokadolu Yumurta Dolması](#org67fef90)
-4.  [Tatlılar](#org5c963c2)
-    1.  [Frambuazlı Yaş Pasta](#org676c0b5)
-    2.  [Leblebili Kurabiye](#org77b6bcb)
+1.  [Et Yemekleri](#org53b7dfe)
+    1.  [Soğan Kebabı](#org0ca983e)
+2.  [Tavuk Yemekleri](#orgb6e1ac5)
+    1.  [Kayısı Marmelatlı Tavuk](#org5c279d0)
+    2.  [Soya Soslu Sebzeli Tavuk](#orgbeb7fbb)
+3.  [Kahvaltılıklar](#orgf261bb5)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org3d79ee7)
+    2.  [Avokadolu Yumurta Dolması](#org40ce614)
+4.  [Tatlılar](#org38db76b)
+    1.  [Frambuazlı Yaş Pasta](#orgf302025)
+    2.  [Leblebili Kurabiye](#org97b3115)
+    3.  [San Sebastian Cheesecake](#org45de871)
 
 
 
-<a id="org5a12b11"></a>
+<a id="org53b7dfe"></a>
 
 # Et Yemekleri
 
 
-<a id="org5cc20e0"></a>
+<a id="org0ca983e"></a>
 
 ## Soğan Kebabı
 
@@ -59,12 +60,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200 derece fırında 1 saat pişir.
 
 
-<a id="orgad9cebd"></a>
+<a id="orgb6e1ac5"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="orgee45009"></a>
+<a id="org5c279d0"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -104,7 +105,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="org42fb3eb"></a>
+<a id="orgbeb7fbb"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -144,12 +145,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="org96f85f6"></a>
+<a id="orgf261bb5"></a>
 
 # Kahvaltılıklar
 
 
-<a id="org3b2bdab"></a>
+<a id="org3d79ee7"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -189,7 +190,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org67fef90"></a>
+<a id="org40ce614"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -230,12 +231,12 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org5c963c2"></a>
+<a id="org38db76b"></a>
 
 # Tatlılar
 
 
-<a id="org676c0b5"></a>
+<a id="orgf302025"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -283,7 +284,7 @@ TODO: buradan izleyip yaz
 <https://www.youtube.com/watch?v=7msRz9cf38c&t=401s>
 
 
-<a id="org77b6bcb"></a>
+<a id="org97b3115"></a>
 
 ## Leblebili Kurabiye
 
@@ -293,6 +294,8 @@ TODO: oranlar güncellenecek
 
 
 ### Besin Değerleri
+
+TODO
 
 
 ### Malzemeler
@@ -310,4 +313,43 @@ TODO: oranlar güncellenecek
 -   Karışımın üzerine azar azar un ekleyerek yavaş yavaş yoğur (Un miktarı değişebilir).
 -   Yağlı kağıt serili tepsi üzerine dondurma kaşığı ile şekil vererek diz.
 -   180 derece fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
+
+
+<a id="org45de871"></a>
+
+## San Sebastian Cheesecake
+
+-   Zorluk: Kolay
+
+
+### Besin Değerleri
+
+Bir dilimde (tüm tarif 8 dilim):
+
+-   507 kcal
+-   9 g protein
+-   33 g karbonhidrat
+-   38 g yağ
+
+
+### Malzemeler
+
+-   400 g Pınar Beyaz
+-   200 g Labne
+-   1 su bardağından biraz fazla şeker (200 g)
+-   4 yumurta
+-   2 yemek kaşığı un
+-   400 ml krema
+
+
+### Tarif
+
+-   Beyaz peynir, labne ve şekeri şekerin çıtırlığı gidene kadar çırp.
+-   Yumurtaları teker teker ekleyerek çırp.
+-   Unu ekleyip çırp.
+-   Krema ekleyip çırp.
+-   Kalıbı yağlı kağıt ile kapla.
+-   Hamuru kalıba dök.
+-   200 derece fırında 45 dakika pişir.
+-   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
