@@ -1,21 +1,67 @@
 
 # İçindekiler
 
-1.  [Tavuk Yemekleri](#orgd9fe2da)
-    1.  [Kayısı Marmelatlı Tavuk](#org35fb18b)
-    2.  [Soya Soslu Sebzeli Tavuk](#org4fd11ff)
-2.  [Kahvaltılıklar](#orgc4cb6cc)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgce9bf30)
-    2.  [Avokadolu Yumurta Dolması](#org0797149)
+1.  [Et Yemekleri](#orga203bcf)
+    1.  [Soğan Kebabı](#org0a5f547)
+2.  [Tavuk Yemekleri](#orgec2cf05)
+    1.  [Kayısı Marmelatlı Tavuk](#orgdac33af)
+    2.  [Soya Soslu Sebzeli Tavuk](#orgfb54b9a)
+3.  [Kahvaltılıklar](#orgadf0541)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgf04381a)
+    2.  [Avokadolu Yumurta Dolması](#orgef593e2)
 
 
 
-<a id="orgd9fe2da"></a>
+<a id="orga203bcf"></a>
+
+# Et Yemekleri
+
+
+<a id="org0a5f547"></a>
+
+## Soğan Kebabı
+
+-   Zorluk: Orta
+
+
+### Besin Değerleri
+
+Bir porsiyonda (tarifin tamamı 5 porsiyon):
+
+-   605 kcal
+-   18 g protein
+-   35 g karbonhidrat
+-   43 g yağ
+
+
+### Malzemeler
+
+-   1 kg arpacık soğan
+-   500 g kıyma (mümkünse kuzu)
+-   Yarım çay bardağı zeytinyağı
+-   Yarım çay bardağı nar ekşisi
+-   1 su bardağı su
+-   Karabiber
+-   Pul biber
+-   Tuz
+
+
+### Tarif
+
+-   Kıymayı baharatlarla birlikte yoğur.
+-   Soğanların iki başını kes, kabuğunun bir katını soy.
+-   Soğanları yarısına kadar bıçakla kes.
+-   Kesilen boşluğa kıymadan doldurup tepsiye diz.
+-   Bir kasede nar ekşisi, zeytinyağı ve suyu karıştırıp tepsiye gezdir.
+-   200 derece fırında 1 saat pişir.
+
+
+<a id="orgec2cf05"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="org35fb18b"></a>
+<a id="orgdac33af"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -55,11 +101,11 @@ Bir parçada:
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="org4fd11ff"></a>
+<a id="orgfb54b9a"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
--   Zorluk: Orta
+-   Zorluk: Kolay
 
 
 ### Besin Değerleri
@@ -95,12 +141,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="orgc4cb6cc"></a>
+<a id="orgadf0541"></a>
 
 # Kahvaltılıklar
 
 
-<a id="orgce9bf30"></a>
+<a id="orgf04381a"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -140,7 +186,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org0797149"></a>
+<a id="orgef593e2"></a>
 
 ## Avokadolu Yumurta Dolması
 

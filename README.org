@@ -1,6 +1,35 @@
 #+LANGUAGE: tr
 #+OPTIONS: toc:2
 
+* Et Yemekleri
+** Soğan Kebabı
+   + Zorluk: Orta
+
+*** Besin Değerleri
+    Bir porsiyonda (tarifin tamamı 5 porsiyon):
+    + 605 kcal
+    + 18 g protein
+    + 35 g karbonhidrat
+    + 43 g yağ
+
+*** Malzemeler
+    + 1 kg arpacık soğan
+    + 500 g kıyma (mümkünse kuzu)
+    + Yarım çay bardağı zeytinyağı
+    + Yarım çay bardağı nar ekşisi
+    + 1 su bardağı su
+    + Karabiber
+    + Pul biber
+    + Tuz
+
+*** Tarif
+    + Kıymayı baharatlarla birlikte yoğur.
+    + Soğanların iki başını kes, kabuğunun bir katını soy.
+    + Soğanları yarısına kadar bıçakla kes.
+    + Kesilen boşluğa kıymadan doldurup tepsiye diz.
+    + Bir kasede nar ekşisi, zeytinyağı ve suyu karıştırıp tepsiye gezdir.
+    + 200 derece fırında 1 saat pişir.
+
 * Tavuk Yemekleri
 ** Kayısı Marmelatlı Tavuk
    + Zorluk: Kolay
@@ -29,7 +58,7 @@
     + 10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 ** Soya Soslu Sebzeli Tavuk
-   + Zorluk: Orta
+   + Zorluk: Kolay
 
 *** Besin Değerleri
     Bir porsiyonda (tarifin tamamı 5 porsiyon):
