@@ -1,27 +1,27 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#org53b7dfe)
-    1.  [Soğan Kebabı](#org0ca983e)
-2.  [Tavuk Yemekleri](#orgb6e1ac5)
-    1.  [Kayısı Marmelatlı Tavuk](#org5c279d0)
-    2.  [Soya Soslu Sebzeli Tavuk](#orgbeb7fbb)
-3.  [Kahvaltılıklar](#orgf261bb5)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org3d79ee7)
-    2.  [Avokadolu Yumurta Dolması](#org40ce614)
-4.  [Tatlılar](#org38db76b)
-    1.  [Frambuazlı Yaş Pasta](#orgf302025)
-    2.  [Leblebili Kurabiye](#org97b3115)
-    3.  [San Sebastian Cheesecake](#org45de871)
+1.  [Et Yemekleri](#org29ac8be)
+    1.  [Soğan Kebabı](#org3b56116)
+2.  [Tavuk Yemekleri](#org90cdbe5)
+    1.  [Kayısı Marmelatlı Tavuk](#org670777f)
+    2.  [Soya Soslu Sebzeli Tavuk](#org9d9a602)
+3.  [Kahvaltılıklar](#orgdbe323a)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org59e654b)
+    2.  [Avokadolu Yumurta Dolması](#org9c28ee0)
+4.  [Tatlılar](#org5323313)
+    1.  [Frambuazlı Yaş Pasta](#org9d56c07)
+    2.  [Leblebili Kurabiye](#org652695a)
+    3.  [San Sebastian Cheesecake](#org2650217)
 
 
 
-<a id="org53b7dfe"></a>
+<a id="org29ac8be"></a>
 
 # Et Yemekleri
 
 
-<a id="org0ca983e"></a>
+<a id="org3b56116"></a>
 
 ## Soğan Kebabı
 
@@ -60,12 +60,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200 derece fırında 1 saat pişir.
 
 
-<a id="orgb6e1ac5"></a>
+<a id="org90cdbe5"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="org5c279d0"></a>
+<a id="org670777f"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -105,7 +105,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="orgbeb7fbb"></a>
+<a id="org9d9a602"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -145,12 +145,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="orgf261bb5"></a>
+<a id="orgdbe323a"></a>
 
 # Kahvaltılıklar
 
 
-<a id="org3d79ee7"></a>
+<a id="org59e654b"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -190,7 +190,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org40ce614"></a>
+<a id="org9c28ee0"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -231,12 +231,12 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org38db76b"></a>
+<a id="org5323313"></a>
 
 # Tatlılar
 
 
-<a id="orgf302025"></a>
+<a id="org9d56c07"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -247,7 +247,7 @@ Bir parçada (yarım yumurta):
 
 Bir dilimde (tüm tarif 8 dilim):
 
--   411 kcal
+-   786 kcal
 -   12 g protein
 -   81 g karbonhidrat
 -   48 g yağ
@@ -284,7 +284,7 @@ TODO: buradan izleyip yaz
 <https://www.youtube.com/watch?v=7msRz9cf38c&t=401s>
 
 
-<a id="org97b3115"></a>
+<a id="org652695a"></a>
 
 ## Leblebili Kurabiye
 
@@ -315,7 +315,7 @@ TODO
 -   180 derece fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="org45de871"></a>
+<a id="org2650217"></a>
 
 ## San Sebastian Cheesecake
 

@@ -154,7 +154,7 @@
 
 *** Besin Değerleri
     Bir dilimde (tüm tarif 8 dilim):
-    + 411 kcal
+    + 786 kcal
     + 12 g protein
     + 81 g karbonhidrat
     + 48 g yağ
