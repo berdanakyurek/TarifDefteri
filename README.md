@@ -1,27 +1,28 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#org29ac8be)
-    1.  [Soğan Kebabı](#org3b56116)
-2.  [Tavuk Yemekleri](#org90cdbe5)
-    1.  [Kayısı Marmelatlı Tavuk](#org670777f)
-    2.  [Soya Soslu Sebzeli Tavuk](#org9d9a602)
-3.  [Kahvaltılıklar](#orgdbe323a)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org59e654b)
-    2.  [Avokadolu Yumurta Dolması](#org9c28ee0)
-4.  [Tatlılar](#org5323313)
-    1.  [Frambuazlı Yaş Pasta](#org9d56c07)
-    2.  [Leblebili Kurabiye](#org652695a)
-    3.  [San Sebastian Cheesecake](#org2650217)
+1.  [Et Yemekleri](#org7153bf1)
+    1.  [Soğan Kebabı](#orgb838c11)
+2.  [Tavuk Yemekleri](#org7c68d07)
+    1.  [Kayısı Marmelatlı Tavuk](#orgf1e86e5)
+    2.  [Soya Soslu Sebzeli Tavuk](#org6eea3f0)
+3.  [Kahvaltılıklar](#org2c2937c)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org609b054)
+    2.  [Avokadolu Yumurta Dolması](#org251845f)
+4.  [Tatlılar](#orgdcbe31c)
+    1.  [Frambuazlı Yaş Pasta](#org1a459fc)
+    2.  [Leblebili Kurabiye](#orgebe05f7)
+    3.  [San Sebastian Cheesecake](#org837baa7)
+    4.  [Bisküvili Çikolata Topları](#orgbecf86c)
 
 
 
-<a id="org29ac8be"></a>
+<a id="org7153bf1"></a>
 
 # Et Yemekleri
 
 
-<a id="org3b56116"></a>
+<a id="orgb838c11"></a>
 
 ## Soğan Kebabı
 
@@ -60,12 +61,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200 derece fırında 1 saat pişir.
 
 
-<a id="org90cdbe5"></a>
+<a id="org7c68d07"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="org670777f"></a>
+<a id="orgf1e86e5"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -105,7 +106,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="org9d9a602"></a>
+<a id="org6eea3f0"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -145,12 +146,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="orgdbe323a"></a>
+<a id="org2c2937c"></a>
 
 # Kahvaltılıklar
 
 
-<a id="org59e654b"></a>
+<a id="org609b054"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -190,7 +191,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org9c28ee0"></a>
+<a id="org251845f"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -231,12 +232,12 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org5323313"></a>
+<a id="orgdcbe31c"></a>
 
 # Tatlılar
 
 
-<a id="org9d56c07"></a>
+<a id="org1a459fc"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -284,7 +285,7 @@ TODO: buradan izleyip yaz
 <https://www.youtube.com/watch?v=7msRz9cf38c&t=401s>
 
 
-<a id="org652695a"></a>
+<a id="orgebe05f7"></a>
 
 ## Leblebili Kurabiye
 
@@ -315,7 +316,7 @@ TODO
 -   180 derece fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="org2650217"></a>
+<a id="org837baa7"></a>
 
 ## San Sebastian Cheesecake
 
@@ -352,4 +353,40 @@ Bir dilimde (tüm tarif 8 dilim):
 -   Hamuru kalıba dök.
 -   200 derece fırında 45 dakika pişir.
 -   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
+
+
+<a id="orgbecf86c"></a>
+
+## Bisküvili Çikolata Topları
+
+-   Zorluk: Kolay
+
+
+### Besin Değerleri
+
+TODO
+
+
+### Malzemeler
+
+-   2 paket pötibör (300 g)
+-   150 g margarin
+-   Yarım su bardağı şeker
+-   Yarım su bardağı süt
+-   2 tatlı kaşığı kakao
+-   Hindistan cevizi
+
+
+### Tarif
+
+-   Küçük tencerede margarini erit.
+-   Süt ve şekeri ekleyip karıştır.
+-   Ocaktan alıp ılıt.
+-   Bisküvileri çok küçük olmayacak şekilde elle kır.
+-   İçine kakaoyu ekleyip karıştır.
+-   Karışımı kakaoların üzerine dök.
+-   Erimeyen bir kıvama gelene kadar yoğur.
+-   Elle yuvarlayıp şekil ver.
+-   Hindistan cevizine bula.
+-   Buzdolabında en az bir saat soğut.
 
