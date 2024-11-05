@@ -1,22 +1,39 @@
 
 # Table of Contents
 
-1.  [Tavuk Yemekleri](#org98f27ab)
-    1.  [Kayısı Marmelatlı Tavuk](#orge5abaa6)
+1.  [İçindekiler](#orge0de490)
+2.  [Tavuk Yemekleri](#org348b5cb)
+    1.  [Kayısı Marmelatlı Tavuk](#orgbf90b59)
+        1.  [Besin Değerleri](#org4ee2040)
+        2.  [Malzemeler](#org9ad4272)
+        3.  [Tarif](#org25b49c9)
 
 
+<a id="orge0de490"></a>
 
-<a id="org98f27ab"></a>
+# İçindekiler
+
+
+# Table of Contents
+
+1.  [İçindekiler](#orge0de490)
+2.  [Tavuk Yemekleri](#org348b5cb)
+    1.  [Kayısı Marmelatlı Tavuk](#orgbf90b59)
+
+
+<a id="org348b5cb"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="orge5abaa6"></a>
+<a id="orgbf90b59"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
 ![img](./images/kayisi-marmelatli-tavuk.jpg)
 
+
+<a id="org4ee2040"></a>
 
 ### Besin Değerleri
 
@@ -28,6 +45,8 @@ Bir parçada:
 -   5 g yağ
 
 
+<a id="org9ad4272"></a>
+
 ### Malzemeler
 
 -   12 tavuk kalça
@@ -38,6 +57,8 @@ Bir parçada:
 -   1 çay kaşığı tuz
 -   1 çay kaşığı karabiber
 
+
+<a id="org25b49c9"></a>
 
 ### Tarif
 
