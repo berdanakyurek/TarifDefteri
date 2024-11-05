@@ -1,3 +1,5 @@
+#+OPTIONS: toc:2
+
 * Tavuk Yemekleri
 ** Kayısı Marmelatlı Tavuk
    [[./images/kayisi-marmelatli-tavuk.jpg]]
