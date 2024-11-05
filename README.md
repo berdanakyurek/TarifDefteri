@@ -1,21 +1,20 @@
 
 # İçindekiler
 
-1.  [Tavuk Yemekleri](#orgb8bc1fb)
-    1.  [Kayısı Marmelatlı Tavuk](#org89b9ede)
+1.  [Tavuk Yemekleri](#orgfb06e6a)
+    1.  [Kayısı Marmelatlı Tavuk](#orgfb9b11d)
 
 
 
-<a id="orgb8bc1fb"></a>
+<a id="orgfb06e6a"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="org89b9ede"></a>
+<a id="orgfb9b11d"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
--   Yapıldığı tarih: <span class="timestamp-wrapper"><span class="timestamp">&lt;2024-11-04 Mon&gt;</span></span>
 -   Zorluk: Kolay
 
 ![img](./images/kayisi-marmelatli-tavuk.jpg)
