@@ -1,5 +1,5 @@
-* İçindekiler
-#+TOC: headlines 2
+#+LANGUAGE: tr
+#+OPTIONS: toc:2
 
 * Tavuk Yemekleri
 ** Kayısı Marmelatlı Tavuk
