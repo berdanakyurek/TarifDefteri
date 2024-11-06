@@ -32,8 +32,8 @@
 
 * Tavuk Yemekleri
 ** Kayısı Marmelatlı Tavuk
+   [[./images/kayisi_marmelatli_tavuk.jpeg]]
    + Zorluk: Kolay
-   [[./images/kayisi-marmelatli-tavuk.jpg]]
 *** Besin Değerleri
     Bir parçada (tarifin tamamı 12 parça):
     + 159 kcal
@@ -90,8 +90,8 @@
 * Kahvaltılıklar
 
 ** Füme Kaburga Ve Cheddarlı Yumurta Dolması
+   [[./images/kaburga_fumeli_yumurta_dolmasi.jpeg]]
    + Zorluk: Orta
-
 *** Besin Değerleri
     Bir parçada (yarım yumurta):
     + 112 kcal
@@ -118,8 +118,8 @@
     + Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 ** Avokadolu Yumurta Dolması
+   [[./images/avokadolu_yumurta_dolmasi.jpeg]]
    + Zorluk: Orta
-
 *** Besin Değerleri
     Bir parçada (yarım yumurta):
     + 73 kcal
