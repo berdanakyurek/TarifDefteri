@@ -1,28 +1,29 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#orgc4ea6fe)
-    1.  [Soğan Kebabı](#orgd3fb17c)
-2.  [Tavuk Yemekleri](#org91ad69d)
-    1.  [Kayısı Marmelatlı Tavuk](#orgb0eb625)
-    2.  [Soya Soslu Sebzeli Tavuk](#orge3536d0)
-3.  [Kahvaltılıklar](#orgbb7d480)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgdcae424)
-    2.  [Avokadolu Yumurta Dolması](#orgf52c87b)
-4.  [Tatlılar](#org33f2ebc)
-    1.  [Frambuazlı Yaş Pasta](#orgcbd04c3)
-    2.  [Leblebili Kurabiye](#org7c884d0)
-    3.  [San Sebastian Cheesecake](#orgb512d60)
-    4.  [Bisküvili Çikolata Topları](#org5c774b4)
+1.  [Et Yemekleri](#org81b858c)
+    1.  [Soğan Kebabı](#org7cc76f5)
+2.  [Tavuk Yemekleri](#org669b120)
+    1.  [Kayısı Marmelatlı Tavuk](#org23f91e8)
+    2.  [Soya Soslu Sebzeli Tavuk](#org6033a83)
+3.  [Kahvaltılıklar](#org19975fc)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org5ddfc85)
+    2.  [Avokadolu Yumurta Dolması](#org07b2969)
+4.  [Tatlılar](#org43014f5)
+    1.  [Frambuazlı Yaş Pasta](#orgbdb5c64)
+    2.  [Leblebili Kurabiye](#orgada8ab1)
+    3.  [San Sebastian Cheesecake](#org2b8dba9)
+    4.  [Bisküvili Çikolata Topları](#org7a78ef9)
+    5.  [Kıtır Karpuz Kabuğu Tatlısı](#orgc77696f)
 
 
 
-<a id="orgc4ea6fe"></a>
+<a id="org81b858c"></a>
 
 # Et Yemekleri
 
 
-<a id="orgd3fb17c"></a>
+<a id="org7cc76f5"></a>
 
 ## Soğan Kebabı
 
@@ -61,12 +62,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200 derece fırında 1 saat pişir.
 
 
-<a id="org91ad69d"></a>
+<a id="org669b120"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="orgb0eb625"></a>
+<a id="org23f91e8"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -106,7 +107,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="orge3536d0"></a>
+<a id="org6033a83"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -146,12 +147,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="orgbb7d480"></a>
+<a id="org19975fc"></a>
 
 # Kahvaltılıklar
 
 
-<a id="orgdcae424"></a>
+<a id="org5ddfc85"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -193,7 +194,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="orgf52c87b"></a>
+<a id="org07b2969"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -236,12 +237,12 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org33f2ebc"></a>
+<a id="org43014f5"></a>
 
 # Tatlılar
 
 
-<a id="orgcbd04c3"></a>
+<a id="orgbdb5c64"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -289,7 +290,7 @@ TODO: buradan izleyip yaz
 <https://www.youtube.com/watch?v=7msRz9cf38c&t=401s>
 
 
-<a id="org7c884d0"></a>
+<a id="orgada8ab1"></a>
 
 ## Leblebili Kurabiye
 
@@ -320,7 +321,7 @@ TODO
 -   180 derece fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="orgb512d60"></a>
+<a id="org2b8dba9"></a>
 
 ## San Sebastian Cheesecake
 
@@ -359,7 +360,7 @@ Bir dilimde (tüm tarif 8 dilim):
 -   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
 
-<a id="org5c774b4"></a>
+<a id="org7a78ef9"></a>
 
 ## Bisküvili Çikolata Topları
 
@@ -393,4 +394,35 @@ TODO
 -   Elle yuvarlayıp şekil ver.
 -   Hindistan cevizine bula.
 -   Buzdolabında en az bir saat soğut.
+
+
+<a id="orgc77696f"></a>
+
+## Kıtır Karpuz Kabuğu Tatlısı
+
+-   Zorluk: Orta
+
+
+### Malzemeler
+
+-   1 kg karpuz kabuğu
+-   1 kg toz şeker
+-   1 limon
+-   2 su bardağı su
+-   10 adet karanfil
+-   1 tatlı kaşığı karbonat
+
+
+### Tarif
+
+-   Karpuz kabuklarının kırmızı ve yeşil kısımlarını soy.
+-   Kabukları küp küp doğra.
+-   Karbonatlı su içinde bir gece beklet.
+-   Karbonatlı suyu süzüp yıka.
+-   Yeniden su ekleyip 5 dk kaynat.
+-   Yeniden suyunu süz.
+-   Tencerede su, şeker ve limonutencereye alıp kaynat.
+-   Kaynadıktan ve şeker çözündükten sonra karpuz kabuklarını ve karanfilleri ekleyerek kaynatmaya devam et.
+-   Yarım saat kaynadıktan sonra soğumaya bırak.
+-   Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
 
