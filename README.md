@@ -1,29 +1,30 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#org81b858c)
-    1.  [Soğan Kebabı](#org7cc76f5)
-2.  [Tavuk Yemekleri](#org669b120)
-    1.  [Kayısı Marmelatlı Tavuk](#org23f91e8)
-    2.  [Soya Soslu Sebzeli Tavuk](#org6033a83)
-3.  [Kahvaltılıklar](#org19975fc)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org5ddfc85)
-    2.  [Avokadolu Yumurta Dolması](#org07b2969)
-4.  [Tatlılar](#org43014f5)
-    1.  [Frambuazlı Yaş Pasta](#orgbdb5c64)
-    2.  [Leblebili Kurabiye](#orgada8ab1)
-    3.  [San Sebastian Cheesecake](#org2b8dba9)
-    4.  [Bisküvili Çikolata Topları](#org7a78ef9)
-    5.  [Kıtır Karpuz Kabuğu Tatlısı](#orgc77696f)
+1.  [Et Yemekleri](#orgd0667a8)
+    1.  [Soğan Kebabı](#org00b70b5)
+2.  [Tavuk Yemekleri](#orgbfda1f2)
+    1.  [Kayısı Marmelatlı Tavuk](#orgd2ca4a7)
+    2.  [Soya Soslu Sebzeli Tavuk](#org43d4f68)
+3.  [Kahvaltılıklar](#org5292b13)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org83aae59)
+    2.  [Avokadolu Yumurta Dolması](#org8081160)
+    3.  [Fesleğenli Krem Peynir](#orgd8ef8ec)
+4.  [Tatlılar](#orgd9501e8)
+    1.  [Frambuazlı Yaş Pasta](#org212817b)
+    2.  [Leblebili Kurabiye](#org1bef5ec)
+    3.  [San Sebastian Cheesecake](#org6933f84)
+    4.  [Bisküvili Çikolata Topları](#org7204bb9)
+    5.  [Kıtır Karpuz Kabuğu Tatlısı](#org0d4bf59)
 
 
 
-<a id="org81b858c"></a>
+<a id="orgd0667a8"></a>
 
 # Et Yemekleri
 
 
-<a id="org7cc76f5"></a>
+<a id="org00b70b5"></a>
 
 ## Soğan Kebabı
 
@@ -62,12 +63,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200 derece fırında 1 saat pişir.
 
 
-<a id="org669b120"></a>
+<a id="orgbfda1f2"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="org23f91e8"></a>
+<a id="orgd2ca4a7"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -107,7 +108,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="org6033a83"></a>
+<a id="org43d4f68"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -147,12 +148,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="org19975fc"></a>
+<a id="org5292b13"></a>
 
 # Kahvaltılıklar
 
 
-<a id="org5ddfc85"></a>
+<a id="org83aae59"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -194,7 +195,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org07b2969"></a>
+<a id="org8081160"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -237,12 +238,45 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org43014f5"></a>
+<a id="orgd8ef8ec"></a>
+
+## Fesleğenli Krem Peynir
+
+-   Zorluk: Kolay
+
+
+### Besin Değerleri
+
+100 gramda:
+
+-   205 kcal
+-   15 g protein
+-   3 g karbonhidrat
+-   15 g yağ
+
+
+### Malzemeler
+
+-   300 g yumuşak beyaz peynir (süzme peynir veya ekici)
+-   100 g lor peyniri
+-   1 bağ fesleğen
+-   1 tatlı kaşığı zeytinyağı
+
+
+### Tarif
+
+-   Fesleğenleri yıkayıp yaprakları ayıkla.
+-   Fesleğen yapraklarını zeytinyağı ile birlikte robottan geçir.
+-   Lor peynirini ekleyip tekrar robottan geçir.
+-   Beyaz peyniri istenen aroma ve kıvam elde edilene kadar yavaş yavaş ekleyip robottan geçir.
+
+
+<a id="orgd9501e8"></a>
 
 # Tatlılar
 
 
-<a id="orgbdb5c64"></a>
+<a id="org212817b"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -290,7 +324,7 @@ TODO: buradan izleyip yaz
 <https://www.youtube.com/watch?v=7msRz9cf38c&t=401s>
 
 
-<a id="orgada8ab1"></a>
+<a id="org1bef5ec"></a>
 
 ## Leblebili Kurabiye
 
@@ -321,7 +355,7 @@ TODO
 -   180 derece fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="org2b8dba9"></a>
+<a id="org6933f84"></a>
 
 ## San Sebastian Cheesecake
 
@@ -360,7 +394,7 @@ Bir dilimde (tüm tarif 8 dilim):
 -   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
 
-<a id="org7a78ef9"></a>
+<a id="org7204bb9"></a>
 
 ## Bisküvili Çikolata Topları
 
@@ -396,7 +430,7 @@ TODO
 -   Buzdolabında en az bir saat soğut.
 
 
-<a id="orgc77696f"></a>
+<a id="org0d4bf59"></a>
 
 ## Kıtır Karpuz Kabuğu Tatlısı
 
