@@ -1,30 +1,31 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#orgd0667a8)
-    1.  [Soğan Kebabı](#org00b70b5)
-2.  [Tavuk Yemekleri](#orgbfda1f2)
-    1.  [Kayısı Marmelatlı Tavuk](#orgd2ca4a7)
-    2.  [Soya Soslu Sebzeli Tavuk](#org43d4f68)
-3.  [Kahvaltılıklar](#org5292b13)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org83aae59)
-    2.  [Avokadolu Yumurta Dolması](#org8081160)
-    3.  [Fesleğenli Krem Peynir](#orgd8ef8ec)
-4.  [Tatlılar](#orgd9501e8)
-    1.  [Frambuazlı Yaş Pasta](#org212817b)
-    2.  [Leblebili Kurabiye](#org1bef5ec)
-    3.  [San Sebastian Cheesecake](#org6933f84)
-    4.  [Bisküvili Çikolata Topları](#org7204bb9)
-    5.  [Kıtır Karpuz Kabuğu Tatlısı](#org0d4bf59)
+1.  [Et Yemekleri](#org14933ce)
+    1.  [Soğan Kebabı](#org55a80b5)
+2.  [Tavuk Yemekleri](#orgcdadf96)
+    1.  [Kayısı Marmelatlı Tavuk](#org489e119)
+    2.  [Soya Soslu Sebzeli Tavuk](#orge08b077)
+3.  [Kahvaltılıklar](#org02f08fb)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org9a2f413)
+    2.  [Avokadolu Yumurta Dolması](#org93ba290)
+    3.  [Fesleğenli Krem Peynir](#org0ada4dd)
+4.  [Tatlılar](#orge57f832)
+    1.  [Frambuazlı Yaş Pasta](#org85efdfe)
+    2.  [Leblebili Kurabiye](#org8892680)
+    3.  [San Sebastian Cheesecake](#org515e83c)
+    4.  [Bisküvili Çikolata Topları](#org7ee2d0e)
+    5.  [Kıtır Karpuz Kabuğu Tatlısı](#org304fe96)
+    6.  [Ispanaklı Pasta](#org946cffd)
 
 
 
-<a id="orgd0667a8"></a>
+<a id="org14933ce"></a>
 
 # Et Yemekleri
 
 
-<a id="org00b70b5"></a>
+<a id="org55a80b5"></a>
 
 ## Soğan Kebabı
 
@@ -60,15 +61,15 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Soğanları yarısına kadar bıçakla kes.
 -   Kesilen boşluğa kıymadan doldurup tepsiye diz.
 -   Bir kasede nar ekşisi, zeytinyağı ve suyu karıştırıp tepsiye gezdir.
--   200 derece fırında 1 saat pişir.
+-   200°C fırında 1 saat pişir.
 
 
-<a id="orgbfda1f2"></a>
+<a id="orgcdadf96"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="orgd2ca4a7"></a>
+<a id="org489e119"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -104,11 +105,11 @@ Bir parçada (tarifin tamamı 12 parça):
 -   Sos için tüm malzemeleri karıştır.
 -   Sosu 5 6 dakika orta ateşte karıştırarak kaynat.
 -   Sosu fırındaki tavukların üzerine paylaştır.
--   220 derece fırında 40 dakika pişir.
+-   220°C fırında 40 dakika pişir.
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="org43d4f68"></a>
+<a id="orge08b077"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -148,12 +149,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="org5292b13"></a>
+<a id="org02f08fb"></a>
 
 # Kahvaltılıklar
 
 
-<a id="org83aae59"></a>
+<a id="org9a2f413"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -195,7 +196,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org8081160"></a>
+<a id="org93ba290"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -238,7 +239,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="orgd8ef8ec"></a>
+<a id="org0ada4dd"></a>
 
 ## Fesleğenli Krem Peynir
 
@@ -271,12 +272,12 @@ Bir parçada (yarım yumurta):
 -   Beyaz peyniri istenen aroma ve kıvam elde edilene kadar yavaş yavaş ekleyip robottan geçir.
 
 
-<a id="orgd9501e8"></a>
+<a id="orge57f832"></a>
 
 # Tatlılar
 
 
-<a id="org212817b"></a>
+<a id="org85efdfe"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -324,7 +325,7 @@ TODO: buradan izleyip yaz
 <https://www.youtube.com/watch?v=7msRz9cf38c&t=401s>
 
 
-<a id="org1bef5ec"></a>
+<a id="org8892680"></a>
 
 ## Leblebili Kurabiye
 
@@ -352,10 +353,10 @@ TODO
 -   Leblebi tozu, sıvı yağ ve pudra şekerini iyice karıştır.
 -   Karışımın üzerine azar azar un ekleyerek yavaş yavaş yoğur (Un miktarı değişebilir).
 -   Yağlı kağıt serili tepsi üzerine dondurma kaşığı ile şekil vererek diz.
--   180 derece fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
+-   180°C fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="org6933f84"></a>
+<a id="org515e83c"></a>
 
 ## San Sebastian Cheesecake
 
@@ -390,11 +391,11 @@ Bir dilimde (tüm tarif 8 dilim):
 -   Krema ekleyip çırp.
 -   Kalıbı yağlı kağıt ile kapla.
 -   Hamuru kalıba dök.
--   200 derece fırında 45 dakika pişir.
+-   200°C fırında 45 dakika pişir.
 -   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
 
-<a id="org7204bb9"></a>
+<a id="org7ee2d0e"></a>
 
 ## Bisküvili Çikolata Topları
 
@@ -430,7 +431,7 @@ TODO
 -   Buzdolabında en az bir saat soğut.
 
 
-<a id="org0d4bf59"></a>
+<a id="org304fe96"></a>
 
 ## Kıtır Karpuz Kabuğu Tatlısı
 
@@ -459,4 +460,76 @@ TODO
 -   Kaynadıktan ve şeker çözündükten sonra karpuz kabuklarını ve karanfilleri ekleyerek kaynatmaya devam et.
 -   Yarım saat kaynadıktan sonra soğumaya bırak.
 -   Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
+
+
+<a id="org946cffd"></a>
+
+## Ispanaklı Pasta
+
+-   Zorluk: Orta
+
+
+### Malzemeler
+
+1.  Kek Malzemeleri
+
+    -   400 g ıspanak
+    -   4 adet yumurta
+    -   1 su bardağı şeker
+    -   1 + 1 su bardağı süt
+    -   Yarım su bardağı sıvı yağ
+    -   1 paket kabartma tozu
+    -   1 paket vanilya
+    -   3.5 su bardağı un
+
+2.  Krema Malzemeleri
+
+    -   1 litre süt
+    -   1 su bardağı şeker
+    -   4 yemek kaşığı un
+    -   4 yemek kaşığı nişasta
+    -   1 yemek kaşığı tereyağı
+    -   1 paket vanilya
+    -   1 paket krem şanti
+
+3.  Üst Katman Malzemeleri
+
+    -   1 paket krem şanti
+    -   Yarım su bardağı süt
+
+
+### Tarif
+
+1.  Kekin Hazırlanması
+
+    -   Ispanakların yapraklarını ayıkla ve yıka.
+    -   Ispanak yapraklarını bir bardak süt ile birlikte robottan geçir.
+    -   Yumurta ve şekeri ayrı bir çırpma kabında çırp.
+    -   Sıvı yağı, kalan bir bardak sütü ve çekilmiş ıspanakları ekleyip tekrar çırp.
+    -   Un, kabartma tozu, vanilya ekleyip karıştır.
+    -   Kek hamurunu borcama dök.
+    -   180°C fırında 40-45 dk pişir.
+
+2.  Kremanın Hazırlanması
+
+    -   Süt, şeker, un nişastayı orta ateşte karıştırarak pişir.
+    -   Kıvam alınca tereyağı ve vanilyayı ekleyip karıştır.
+    -   Kremayı soğumaya bırak.
+    -   Soğuyan kremaya krem şanti ekleyip iyice çırp.
+
+3.  Üst Katmanın Hazırlanması
+
+    -   Krem şantiyi soğuk süt ile birlikte iyice kıvam alana kadar çırp.
+
+4.  Pastanın Oluşturulması
+
+    -   Soğuyan keki borcamdan çıkarıp yatay olarak ikiye böl.
+    -   Katmanlardan fazla kek parçalarını çıkartarak ayır.
+    -   Katmanları düzgün bir hale getir.
+    -   Alt kek katmanını tekrardan borcama al.
+    -   Üzerine kremayı döküp iyice yay.
+    -   Üzerine ikinci kek katmanını yerleştir.
+    -   Üzerine üst katman için hazırlanan krem şantiyi döküp yay.
+    -   Ayrılan kek parçalarını robottan geçirerek ufala.
+    -   Ufalanan kek parçalarını en üste serpiştir.
 

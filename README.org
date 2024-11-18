@@ -28,7 +28,7 @@
     + Soğanları yarısına kadar bıçakla kes.
     + Kesilen boşluğa kıymadan doldurup tepsiye diz.
     + Bir kasede nar ekşisi, zeytinyağı ve suyu karıştırıp tepsiye gezdir.
-    + 200 derece fırında 1 saat pişir.
+    + 200°C fırında 1 saat pişir.
 
 * Tavuk Yemekleri
 ** Kayısı Marmelatlı Tavuk
@@ -54,7 +54,7 @@
     + Sos için tüm malzemeleri karıştır.
     + Sosu 5 6 dakika orta ateşte karıştırarak kaynat.
     + Sosu fırındaki tavukların üzerine paylaştır.
-    + 220 derece fırında 40 dakika pişir.
+    + 220°C fırında 40 dakika pişir.
     + 10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 ** Soya Soslu Sebzeli Tavuk
@@ -225,7 +225,7 @@
     + Leblebi tozu, sıvı yağ ve pudra şekerini iyice karıştır.
     + Karışımın üzerine azar azar un ekleyerek yavaş yavaş yoğur (Un miktarı değişebilir).
     + Yağlı kağıt serili tepsi üzerine dondurma kaşığı ile şekil vererek diz.
-    + 180 derece fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
+    + 180°C fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 ** San Sebastian Cheesecake
    + Zorluk: Kolay
@@ -252,7 +252,7 @@
     + Krema ekleyip çırp.
     + Kalıbı yağlı kağıt ile kapla.
     + Hamuru kalıba dök.
-    + 200 derece fırında 45 dakika pişir.
+    + 200°C fırında 45 dakika pişir.
     + Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
 ** Bisküvili Çikolata Topları
@@ -303,3 +303,61 @@
     + Kaynadıktan ve şeker çözündükten sonra karpuz kabuklarını ve karanfilleri ekleyerek kaynatmaya devam et.
     + Yarım saat kaynadıktan sonra soğumaya bırak.
     + Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
+
+** Ispanaklı Pasta
+   + Zorluk: Orta
+
+*** Malzemeler
+
+**** Kek Malzemeleri
+     + 400 g ıspanak
+     + 4 adet yumurta
+     + 1 su bardağı şeker
+     + 1 + 1 su bardağı süt
+     + Yarım su bardağı sıvı yağ
+     + 1 paket kabartma tozu
+     + 1 paket vanilya
+     + 3.5 su bardağı un
+
+**** Krema Malzemeleri
+     + 1 litre süt
+     + 1 su bardağı şeker
+     + 4 yemek kaşığı un
+     + 4 yemek kaşığı nişasta
+     + 1 yemek kaşığı tereyağı
+     + 1 paket vanilya
+     + 1 paket krem şanti
+
+**** Üst Katman Malzemeleri
+     + 1 paket krem şanti
+     + Yarım su bardağı süt
+
+*** Tarif
+**** Kekin Hazırlanması
+     + Ispanakların yapraklarını ayıkla ve yıka.
+     + Ispanak yapraklarını bir bardak süt ile birlikte robottan geçir.
+     + Yumurta ve şekeri ayrı bir çırpma kabında çırp.
+     + Sıvı yağı, kalan bir bardak sütü ve çekilmiş ıspanakları ekleyip tekrar çırp.
+     + Un, kabartma tozu, vanilya ekleyip karıştır.
+     + Kek hamurunu borcama dök.
+     + 180°C fırında 40-45 dk pişir.
+
+**** Kremanın Hazırlanması
+     + Süt, şeker, un nişastayı orta ateşte karıştırarak pişir.
+     + Kıvam alınca tereyağı ve vanilyayı ekleyip karıştır.
+     + Kremayı soğumaya bırak.
+     + Soğuyan kremaya krem şanti ekleyip iyice çırp.
+
+**** Üst Katmanın Hazırlanması
+     + Krem şantiyi soğuk süt ile birlikte iyice kıvam alana kadar çırp.
+
+**** Pastanın Oluşturulması
+     + Soğuyan keki borcamdan çıkarıp yatay olarak ikiye böl.
+     + Katmanlardan fazla kek parçalarını çıkartarak ayır.
+     + Katmanları düzgün bir hale getir.
+     + Alt kek katmanını tekrardan borcama al.
+     + Üzerine kremayı döküp iyice yay.
+     + Üzerine ikinci kek katmanını yerleştir.
+     + Üzerine üst katman için hazırlanan krem şantiyi döküp yay.
+     + Ayrılan kek parçalarını robottan geçirerek ufala.
+     + Ufalanan kek parçalarını en üste serpiştir.
