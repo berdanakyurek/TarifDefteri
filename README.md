@@ -1,31 +1,31 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#org4ac57c0)
-    1.  [Soğan Kebabı](#orge77c175)
-2.  [Tavuk Yemekleri](#org4a53a1c)
-    1.  [Kayısı Marmelatlı Tavuk](#orgcb9d627)
-    2.  [Soya Soslu Sebzeli Tavuk](#orga244885)
-3.  [Kahvaltılıklar](#org3707061)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgca2aeb5)
-    2.  [Avokadolu Yumurta Dolması](#org4b5474b)
-    3.  [Fesleğenli Krem Peynir](#orgc54154b)
-4.  [Tatlılar](#org75074f9)
-    1.  [Frambuazlı Yaş Pasta](#orgb5894ca)
-    2.  [Leblebili Kurabiye](#orgdae91a8)
-    3.  [San Sebastian Cheesecake](#org79dd6a2)
-    4.  [Bisküvili Çikolata Topları](#orgb5a8a11)
-    5.  [Kıtır Karpuz Kabuğu Tatlısı](#orgb0d52f3)
-    6.  [Ispanaklı Pasta](#orgd64c62b)
+1.  [Et Yemekleri](#orgaf8123c)
+    1.  [Soğan Kebabı](#org6172281)
+2.  [Tavuk Yemekleri](#org867c205)
+    1.  [Kayısı Marmelatlı Tavuk](#org6b6c92c)
+    2.  [Soya Soslu Sebzeli Tavuk](#org9db507c)
+3.  [Kahvaltılıklar](#orgd461895)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org9bdc015)
+    2.  [Avokadolu Yumurta Dolması](#orga6d13d2)
+    3.  [Fesleğenli Krem Peynir](#org9b3c5a6)
+4.  [Tatlılar](#org7c9d604)
+    1.  [Frambuazlı Yaş Pasta](#orgacf4634)
+    2.  [Leblebili Kurabiye](#org3b4cc0d)
+    3.  [San Sebastian Cheesecake](#org79df8b1)
+    4.  [Bisküvili Çikolata Topları](#org0ac57eb)
+    5.  [Kıtır Karpuz Kabuğu Tatlısı](#org97665a5)
+    6.  [Ispanaklı Pasta](#orgba723f9)
 
 
 
-<a id="org4ac57c0"></a>
+<a id="orgaf8123c"></a>
 
 # Et Yemekleri
 
 
-<a id="orge77c175"></a>
+<a id="org6172281"></a>
 
 ## Soğan Kebabı
 
@@ -64,12 +64,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200°C fırında 1 saat pişir.
 
 
-<a id="org4a53a1c"></a>
+<a id="org867c205"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="orgcb9d627"></a>
+<a id="org6b6c92c"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -109,7 +109,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="orga244885"></a>
+<a id="org9db507c"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -149,12 +149,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="org3707061"></a>
+<a id="orgd461895"></a>
 
 # Kahvaltılıklar
 
 
-<a id="orgca2aeb5"></a>
+<a id="org9bdc015"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -196,7 +196,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org4b5474b"></a>
+<a id="orga6d13d2"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -239,7 +239,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="orgc54154b"></a>
+<a id="org9b3c5a6"></a>
 
 ## Fesleğenli Krem Peynir
 
@@ -274,12 +274,12 @@ Bir parçada (yarım yumurta):
 -   Beyaz peyniri istenen aroma ve kıvam elde edilene kadar yavaş yavaş ekleyip robottan geçir.
 
 
-<a id="org75074f9"></a>
+<a id="org7c9d604"></a>
 
 # Tatlılar
 
 
-<a id="orgb5894ca"></a>
+<a id="orgacf4634"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -327,7 +327,7 @@ TODO: buradan izleyip yaz
 <https://www.youtube.com/watch?v=7msRz9cf38c&t=401s>
 
 
-<a id="orgdae91a8"></a>
+<a id="org3b4cc0d"></a>
 
 ## Leblebili Kurabiye
 
@@ -358,7 +358,7 @@ TODO
 -   180°C fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="org79dd6a2"></a>
+<a id="org79df8b1"></a>
 
 ## San Sebastian Cheesecake
 
@@ -397,7 +397,7 @@ Bir dilimde (tüm tarif 8 dilim):
 -   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
 
-<a id="orgb5a8a11"></a>
+<a id="org0ac57eb"></a>
 
 ## Bisküvili Çikolata Topları
 
@@ -433,7 +433,7 @@ TODO
 -   Buzdolabında en az bir saat soğut.
 
 
-<a id="orgb0d52f3"></a>
+<a id="org97665a5"></a>
 
 ## Kıtır Karpuz Kabuğu Tatlısı
 
@@ -464,13 +464,23 @@ TODO
 -   Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
 
 
-<a id="orgd64c62b"></a>
+<a id="orgba723f9"></a>
 
 ## Ispanaklı Pasta
 
 ![img](./images/ispanakli_pasta.jpeg)
 
 -   Zorluk: Orta
+
+
+### Besin Değerleri
+
+Bir dilimde (tüm tarif 15 dilim):
+
+-   425 kcal
+-   10 g protein
+-   68 g karbonhidrat
+-   13 g yağ
 
 
 ### Malzemeler

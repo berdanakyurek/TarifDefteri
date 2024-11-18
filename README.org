@@ -309,6 +309,13 @@
    [[./images/ispanakli_pasta.jpeg]]
    + Zorluk: Orta
 
+*** Besin Değerleri
+    Bir dilimde (tüm tarif 15 dilim):
+    + 425 kcal
+    + 10 g protein
+    + 68 g karbonhidrat
+    + 13 g yağ
+
 *** Malzemeler
 
 **** Kek Malzemeleri
