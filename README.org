@@ -148,6 +148,7 @@
     + Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 ** Fesleğenli Krem Peynir
+   [[./images/feslegenli_krem_peynir.jpeg]]
    + Zorluk: Kolay
 
 *** Besin Değerleri
@@ -305,6 +306,7 @@
     + Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
 
 ** Ispanaklı Pasta
+   [[./images/ispanakli_pasta.jpeg]]
    + Zorluk: Orta
 
 *** Malzemeler

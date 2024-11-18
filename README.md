@@ -1,31 +1,31 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#org14933ce)
-    1.  [Soğan Kebabı](#org55a80b5)
-2.  [Tavuk Yemekleri](#orgcdadf96)
-    1.  [Kayısı Marmelatlı Tavuk](#org489e119)
-    2.  [Soya Soslu Sebzeli Tavuk](#orge08b077)
-3.  [Kahvaltılıklar](#org02f08fb)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org9a2f413)
-    2.  [Avokadolu Yumurta Dolması](#org93ba290)
-    3.  [Fesleğenli Krem Peynir](#org0ada4dd)
-4.  [Tatlılar](#orge57f832)
-    1.  [Frambuazlı Yaş Pasta](#org85efdfe)
-    2.  [Leblebili Kurabiye](#org8892680)
-    3.  [San Sebastian Cheesecake](#org515e83c)
-    4.  [Bisküvili Çikolata Topları](#org7ee2d0e)
-    5.  [Kıtır Karpuz Kabuğu Tatlısı](#org304fe96)
-    6.  [Ispanaklı Pasta](#org946cffd)
+1.  [Et Yemekleri](#org4ac57c0)
+    1.  [Soğan Kebabı](#orge77c175)
+2.  [Tavuk Yemekleri](#org4a53a1c)
+    1.  [Kayısı Marmelatlı Tavuk](#orgcb9d627)
+    2.  [Soya Soslu Sebzeli Tavuk](#orga244885)
+3.  [Kahvaltılıklar](#org3707061)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgca2aeb5)
+    2.  [Avokadolu Yumurta Dolması](#org4b5474b)
+    3.  [Fesleğenli Krem Peynir](#orgc54154b)
+4.  [Tatlılar](#org75074f9)
+    1.  [Frambuazlı Yaş Pasta](#orgb5894ca)
+    2.  [Leblebili Kurabiye](#orgdae91a8)
+    3.  [San Sebastian Cheesecake](#org79dd6a2)
+    4.  [Bisküvili Çikolata Topları](#orgb5a8a11)
+    5.  [Kıtır Karpuz Kabuğu Tatlısı](#orgb0d52f3)
+    6.  [Ispanaklı Pasta](#orgd64c62b)
 
 
 
-<a id="org14933ce"></a>
+<a id="org4ac57c0"></a>
 
 # Et Yemekleri
 
 
-<a id="org55a80b5"></a>
+<a id="orge77c175"></a>
 
 ## Soğan Kebabı
 
@@ -64,12 +64,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200°C fırında 1 saat pişir.
 
 
-<a id="orgcdadf96"></a>
+<a id="org4a53a1c"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="org489e119"></a>
+<a id="orgcb9d627"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -109,7 +109,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="orge08b077"></a>
+<a id="orga244885"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -149,12 +149,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="org02f08fb"></a>
+<a id="org3707061"></a>
 
 # Kahvaltılıklar
 
 
-<a id="org9a2f413"></a>
+<a id="orgca2aeb5"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -196,7 +196,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org93ba290"></a>
+<a id="org4b5474b"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -239,9 +239,11 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org0ada4dd"></a>
+<a id="orgc54154b"></a>
 
 ## Fesleğenli Krem Peynir
+
+![img](./images/feslegenli_krem_peynir.jpeg)
 
 -   Zorluk: Kolay
 
@@ -272,12 +274,12 @@ Bir parçada (yarım yumurta):
 -   Beyaz peyniri istenen aroma ve kıvam elde edilene kadar yavaş yavaş ekleyip robottan geçir.
 
 
-<a id="orge57f832"></a>
+<a id="org75074f9"></a>
 
 # Tatlılar
 
 
-<a id="org85efdfe"></a>
+<a id="orgb5894ca"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -325,7 +327,7 @@ TODO: buradan izleyip yaz
 <https://www.youtube.com/watch?v=7msRz9cf38c&t=401s>
 
 
-<a id="org8892680"></a>
+<a id="orgdae91a8"></a>
 
 ## Leblebili Kurabiye
 
@@ -356,7 +358,7 @@ TODO
 -   180°C fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="org515e83c"></a>
+<a id="org79dd6a2"></a>
 
 ## San Sebastian Cheesecake
 
@@ -395,7 +397,7 @@ Bir dilimde (tüm tarif 8 dilim):
 -   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
 
-<a id="org7ee2d0e"></a>
+<a id="orgb5a8a11"></a>
 
 ## Bisküvili Çikolata Topları
 
@@ -431,7 +433,7 @@ TODO
 -   Buzdolabında en az bir saat soğut.
 
 
-<a id="org304fe96"></a>
+<a id="orgb0d52f3"></a>
 
 ## Kıtır Karpuz Kabuğu Tatlısı
 
@@ -462,9 +464,11 @@ TODO
 -   Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
 
 
-<a id="org946cffd"></a>
+<a id="orgd64c62b"></a>
 
 ## Ispanaklı Pasta
+
+![img](./images/ispanakli_pasta.jpeg)
 
 -   Zorluk: Orta
 
