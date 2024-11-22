@@ -184,29 +184,76 @@
 
 *** Malzemeler
 
-    + 150 gr tereyağı
-    + 300 gr toz şeker
-    + 210 gr un
-    + 50 gr kakao
-    + 1 yemek kaşığı granül kahve
-    + 160 ml sıcak su
-    + 70 g yoğurt
-    + 3 adet orta boy yumurta
-    + 1 çay kaşığı kabartma tozu
-    + Bir tutam tuz
-    + 300 g frambuaz (tahmini)
+**** Kek
+     + 150 gr tereyağı
+     + 300 gr toz şeker
+     + 210 gr un
+     + 50 gr kakao
+     + 1 yemek kaşığı granül kahve
+     + 160 ml sıcak su
+     + 70 g yoğurt
+     + 3 adet orta boy yumurta
+     + 1 çay kaşığı kabartma tozu
+     + Bir tutam tuz
 
-**** İç Dolgu ve Sıva
-    + 400 ml krema
-    + 200 g bitter çikolata
+**** Krema
+     + 400 ml krema
+     + 200 g bitter çikolata
+     + 300 g frambuaz (tahmini)
 
-**** Üst Ganaj
-    + 50 ml krema
-    + 50 g bitter çikolata
+**** Ganaj
+     + 50 ml krema
+     + 50 g bitter çikolata
 
 *** Tarif
-    TODO: buradan izleyip yaz
-    https://www.youtube.com/watch?v=7msRz9cf38c&t=401s
+
+**** Kekin Hazırlanması
+     + Kahve, kakao ve sıcak suyu iyice çözünene kadar karıştır.
+     + Karışımı soğumaya bırak.
+     + Tereyağını şeker ile birlikte çırp.
+     + Yumurtaları tek tek ekle, her yumurtadan sonra yeniden çırp.
+     + Tuz, kabartma tozu ve unun yaklaşık yarısını ekleyip tekrar çırp.
+     + Yoğurt ve kahveli karışımın yarısını ekleyip tekrar çırp.
+     + Kalan unu ekleyip tekrar çırp.
+     + Kalan kahveli karışımı ekleyip tekrar çırp.
+     + 20 cm çapındaki i̇ki çember kalıba keki bölüştür.
+     + 175°C fırında 25-30 dk pişir.
+
+**** Kremanın hazırlanması
+     + Çikolatayı parçalayarak bir kaba al.
+     + 200 ml kremayı (yarısını) sos tenceresinde kaynat.
+     + Kaynayan kremayı çikolataların üzerine döküp karıştır.
+     + Kalan soğuk kremayı ekleyip tekrar karıştır.
+     + Streç film ile üzerini kapatıp en az 4 saat dolapta beklet.
+     + Dolaptan çıkan kremayı mikserle iyice çırparak kıvamlandır.
+
+**** Pastanın oluşturulması
+     + Pişip soğuyan keklerin yüksek kalan yerlerini bıçakla düzleşt.
+     + Pasta standına bir parça krema koyarak üstüne pastanın alt tabanını yerleştir.
+     + Üzerine krema torbasına doldurulmuş kremanın bir kısmını sık. Krema torbası yerine spatula
+       ile de sürülebilir.
+     + Sıkılan kremanın üzerine frambuaz serpiştir.
+     + Frambuazların bir kısmını üstünü süslemek için ayır.
+     + Frambuazların üstüne bir miktar daha krema ekleyerek frambuazları göm.
+     + Diğer kek parçasını üzerine kapat.
+     + Bir miktar kremayı süsleme için ayır.
+     + Kalan kremayla pastanın üstünü ve yanlarını iyice sıva.
+     + Pastayı buzdolabında iyice soğutup servis tabağına al.
+
+**** Ganajın hazırlanması
+     + Çikolatayı parçalayarak bir kaba al.
+     + Kremayı sos tenceresinde kaynat.
+     + Kaynayan kremayı çikolataların üzerine döküp karıştır.
+     + Soğuyan pastanın kenarlarından aşağı doğru akan bir görünüm sağlayacak şekilde pastanın
+       kenarlarından akıt.
+     + Kalan ganajı pastanın üzerine dökerek üst yüzeyini tamamen kapla.
+     + Tabağı tezgahın üstüne vurarak pürüzsüz olmasını sağla.
+     + Pastayı buzdolabında soğumaya bırak.
+
+**** Süsleme
+     + Soğuyup ganajı tamamen donan pastanın üzerine krema torbasının şekilli ucu ile krema
+       yığınları yaparak süsle.
+     + Her krema yığının üzerine bir adet frambuaz ekle.
 
 ** Leblebili Kurabiye
    TODO: oranlar güncellenecek
