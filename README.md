@@ -1,31 +1,31 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#orge769c75)
-    1.  [Soğan Kebabı](#org3119832)
-2.  [Tavuk Yemekleri](#orgd67d498)
-    1.  [Kayısı Marmelatlı Tavuk](#org141a29d)
-    2.  [Soya Soslu Sebzeli Tavuk](#orgf75fa4c)
-3.  [Kahvaltılıklar](#orgd456cd1)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org7f75ef8)
-    2.  [Avokadolu Yumurta Dolması](#org98e779a)
-    3.  [Fesleğenli Krem Peynir](#orge746e0a)
-4.  [Tatlılar](#org34aaf79)
-    1.  [Frambuazlı Yaş Pasta](#org5d6270c)
-    2.  [Leblebili Kurabiye](#org0fa9db7)
-    3.  [San Sebastian Cheesecake](#org3bc4ac0)
-    4.  [Bisküvili Çikolata Topları](#orgdf08839)
-    5.  [Kıtır Karpuz Kabuğu Tatlısı](#orgba54bd9)
-    6.  [Ispanaklı Pasta](#org0ed869e)
+1.  [Et Yemekleri](#orgf3c2c5f)
+    1.  [Soğan Kebabı](#orgacad84e)
+2.  [Tavuk Yemekleri](#org1f09a76)
+    1.  [Kayısı Marmelatlı Tavuk](#org720427b)
+    2.  [Soya Soslu Sebzeli Tavuk](#org66f0dd5)
+3.  [Kahvaltılıklar](#org387c32c)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgb69aee4)
+    2.  [Avokadolu Yumurta Dolması](#orge0dbc10)
+    3.  [Fesleğenli Krem Peynir](#orgde39b9f)
+4.  [Tatlılar](#org9f321dc)
+    1.  [Frambuazlı Yaş Pasta](#org5cbf9e8)
+    2.  [Leblebili Kurabiye](#org86a0f1f)
+    3.  [San Sebastian Cheesecake](#org0baacd0)
+    4.  [Bisküvili Çikolata Topları](#orgf82aa5a)
+    5.  [Kıtır Karpuz Kabuğu Tatlısı](#orgbf84d94)
+    6.  [Ispanaklı Pasta](#orgf0d050c)
 
 
 
-<a id="orge769c75"></a>
+<a id="orgf3c2c5f"></a>
 
 # Et Yemekleri
 
 
-<a id="org3119832"></a>
+<a id="orgacad84e"></a>
 
 ## Soğan Kebabı
 
@@ -64,12 +64,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200°C fırında 1 saat pişir.
 
 
-<a id="orgd67d498"></a>
+<a id="org1f09a76"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="org141a29d"></a>
+<a id="org720427b"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -109,7 +109,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="orgf75fa4c"></a>
+<a id="org66f0dd5"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -149,12 +149,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="orgd456cd1"></a>
+<a id="org387c32c"></a>
 
 # Kahvaltılıklar
 
 
-<a id="org7f75ef8"></a>
+<a id="orgb69aee4"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -196,7 +196,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org98e779a"></a>
+<a id="orge0dbc10"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -239,7 +239,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="orge746e0a"></a>
+<a id="orgde39b9f"></a>
 
 ## Fesleğenli Krem Peynir
 
@@ -274,12 +274,12 @@ Bir parçada (yarım yumurta):
 -   Beyaz peyniri istenen aroma ve kıvam elde edilene kadar yavaş yavaş ekleyip robottan geçir.
 
 
-<a id="org34aaf79"></a>
+<a id="org9f321dc"></a>
 
 # Tatlılar
 
 
-<a id="org5d6270c"></a>
+<a id="org5cbf9e8"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -338,7 +338,7 @@ Bir dilimde (tüm tarif 8 dilim):
     -   20 cm çapındaki i̇ki çember kalıba keki bölüştür.
     -   175°C fırında 25-30 dk pişir.
 
-2.  Kremanın hazırlanması
+2.  Kremanın Hazırlanması
 
     -   Çikolatayı parçalayarak bir kaba al.
     -   200 ml kremayı (yarısını) sos tenceresinde kaynat.
@@ -347,7 +347,7 @@ Bir dilimde (tüm tarif 8 dilim):
     -   Streç film ile üzerini kapatıp en az 4 saat dolapta beklet.
     -   Dolaptan çıkan kremayı mikserle iyice çırparak kıvamlandır.
 
-3.  Pastanın oluşturulması
+3.  Pastanın Oluşturulması
 
     -   Pişip soğuyan keklerin yüksek kalan yerlerini bıçakla düzleşt.
     -   Pasta standına bir parça krema koyarak üstüne pastanın alt tabanını yerleştir.
@@ -361,7 +361,7 @@ Bir dilimde (tüm tarif 8 dilim):
     -   Kalan kremayla pastanın üstünü ve yanlarını iyice sıva.
     -   Pastayı buzdolabında iyice soğutup servis tabağına al.
 
-4.  Ganajın hazırlanması
+4.  Ganajın Hazırlanması
 
     -   Çikolatayı parçalayarak bir kaba al.
     -   Kremayı sos tenceresinde kaynat.
@@ -379,7 +379,7 @@ Bir dilimde (tüm tarif 8 dilim):
     -   Her krema yığının üzerine bir adet frambuaz ekle.
 
 
-<a id="org0fa9db7"></a>
+<a id="org86a0f1f"></a>
 
 ## Leblebili Kurabiye
 
@@ -410,7 +410,7 @@ TODO
 -   180°C fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="org3bc4ac0"></a>
+<a id="org0baacd0"></a>
 
 ## San Sebastian Cheesecake
 
@@ -449,7 +449,7 @@ Bir dilimde (tüm tarif 8 dilim):
 -   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
 
-<a id="orgdf08839"></a>
+<a id="orgf82aa5a"></a>
 
 ## Bisküvili Çikolata Topları
 
@@ -485,7 +485,7 @@ TODO
 -   Buzdolabında en az bir saat soğut.
 
 
-<a id="orgba54bd9"></a>
+<a id="orgbf84d94"></a>
 
 ## Kıtır Karpuz Kabuğu Tatlısı
 
@@ -516,7 +516,7 @@ TODO
 -   Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
 
 
-<a id="org0ed869e"></a>
+<a id="orgf0d050c"></a>
 
 ## Ispanaklı Pasta
 
