@@ -69,7 +69,7 @@
 
 *** Malzemeler
 
-    + 500 gram tavuk göğsü
+    + 500 g tavuk göğsü
     + 4 yemek kaşığı + 2 yemek kaşığı soya sosu
     + 3 yemek kaşığı sirke
     + 2 yemek kaşığı nişasta
@@ -152,7 +152,7 @@
    + Zorluk: Kolay
 
 *** Besin Değerleri
-    100 gramda:
+    100 g üründe:
     + 205 kcal
     + 15 g protein
     + 3 g karbonhidrat
@@ -170,6 +170,73 @@
     + Lor peynirini ekleyip tekrar robottan geçir.
     + Beyaz peyniri istenen aroma ve kıvam elde edilene kadar yavaş yavaş ekleyip robottan geçir.
 
+
+* Makarnalar
+
+** Domates ve Fesleğenli Taze Makarna
+   [[./images/domates_ve_feslegenli_taze_makarna.jpeg]]
+   + Zorluk: Orta
+
+*** Malzemeler
+
+**** Makarna
+     + 100 g un
+     + 1 yumurta
+     + 1 tatlı kaşığı tuz
+
+**** Sos
+     + 1 yemek kaşığı tereyağı
+     + 1 domates
+     + 1 yemek kaşığı domates salçası
+     + 1 tatlı kaşığı biber salçası
+     + 1 tatlı kaşığı kuru fesleğen
+     + 1 çay kaşığı pul biber
+     + Yarım çay kaşığı karabiber
+     + Tuz
+
+*** Tarif
+
+**** Makarna
+     + Hamurun açılacağı tezgaha elenmiş unu tepe şeklinde dök.
+     + Üzerine tuzu ekle.
+     + Tepenin ortasında bir çukur oluştur.
+     + Çukurun içine yumurtayı kır.
+     + Spatulayla hamur biraz toparlanana kadar karıştır.
+     + Hamur biraz toparlandıktan sonra elle yoğurmaya başla.
+     + Sert ama dağılmayan bir hamur elde edene kadar yoğur.
+     + Eğer hamur cıvık olursa kontrollü şekilde elenmiş un ekle.
+     + Eğer hamur fazla sert ve yoğururken dağılan bir kıvamda olursa elini hafifçe ıslatıp yoğurmaya
+       devam et.
+     + İstenen kıvama gelen hamuru üzerini kapatarak oda sıcaklığında yarım saat dinlendir.
+     + Hamuru açmaya başlamadan önce tencerede bir miktar suyu kaynamaya al.
+     + Dinlenen hamuru iki eşit parçaya böl.
+     + Tezgahın üstüne hafifçe un serpip parçalardan birini üstüne al.
+     + Hamur parçasının üzerine de bir miktar un serpip merdane ile açmaya başla.
+     + İnce ve uzun bir dikdörtgen elde edecek şekilde hamuru incelterek aç.
+     + Açarken ara ara hamuru ters yüz edip hafifçe un serp.
+     + Hamur istenen kalınlık ve uzunluğa geldiğinde hamurun iki yüzüne hafifçe un serpip elle
+       hafifçe dağıt. Bu katlanan hamurun diğer katlara yapışmaması için gerekli.
+     + Dikdörtgen şeklindeki hamuru bıçakla kesebilmek için birkaç kat katla.
+     + Katladığın hamuru bıçakla fazla dağıtmamaya ve hamurları birbirine yapıştırmamaya gayret
+       göstererek kes.
+     + Kesilen ve katlı durumda olan makarnaları açarak tek bir uzun şerit haline getir.
+     + Aynı işlemleri tüm hamur bezeleri için tekrarla.
+     + Hazırladığın makarnaları kaynamakta olan suyun içine at.
+     + Makarnaları 5-6 dakika haşla.
+     + Haşlanan makarnaları süzgeç içine koyup soğuk sudan geçir.
+
+**** Sos
+     + Domatesi rendele.
+     + Tereyağını tavada erit.
+     + Eriyen tereyağının üzerine salçaları ekleyip bir süre kavur.
+     + Rendelenmiş domatesi ekleyip karıştır.
+     + Domatesin diriliği gidip suyu azalana kadar arada karıştırarak kavur.
+     + Baharatları ekleyip bir süre de baharatlarla kavur.
+     + Baharatların kokusu çıkıp sosun suyu iyice azalınca makarnanın haşlandığı sudan ilave ederek
+       kıvamını ayarla.
+     + İstenen kıvama gelip kaynayan sosa suyu süzülen makarnaları ekle.
+     + Makarnaları iyice sos ile harmanla.
+
 * Tatlılar
 
 ** Frambuazlı Yaş Pasta
@@ -185,10 +252,10 @@
 *** Malzemeler
 
 **** Kek
-     + 150 gr tereyağı
-     + 300 gr toz şeker
-     + 210 gr un
-     + 50 gr kakao
+     + 150 g tereyağı
+     + 300 g toz şeker
+     + 210 g un
+     + 50 g kakao
      + 1 yemek kaşığı granül kahve
      + 160 ml sıcak su
      + 70 g yoğurt

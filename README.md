@@ -1,31 +1,33 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#orgf3c2c5f)
-    1.  [Soğan Kebabı](#orgacad84e)
-2.  [Tavuk Yemekleri](#org1f09a76)
-    1.  [Kayısı Marmelatlı Tavuk](#org720427b)
-    2.  [Soya Soslu Sebzeli Tavuk](#org66f0dd5)
-3.  [Kahvaltılıklar](#org387c32c)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgb69aee4)
-    2.  [Avokadolu Yumurta Dolması](#orge0dbc10)
-    3.  [Fesleğenli Krem Peynir](#orgde39b9f)
-4.  [Tatlılar](#org9f321dc)
-    1.  [Frambuazlı Yaş Pasta](#org5cbf9e8)
-    2.  [Leblebili Kurabiye](#org86a0f1f)
-    3.  [San Sebastian Cheesecake](#org0baacd0)
-    4.  [Bisküvili Çikolata Topları](#orgf82aa5a)
-    5.  [Kıtır Karpuz Kabuğu Tatlısı](#orgbf84d94)
-    6.  [Ispanaklı Pasta](#orgf0d050c)
+1.  [Et Yemekleri](#org8ec05ba)
+    1.  [Soğan Kebabı](#orgc5a935d)
+2.  [Tavuk Yemekleri](#org668fef5)
+    1.  [Kayısı Marmelatlı Tavuk](#orgd48b142)
+    2.  [Soya Soslu Sebzeli Tavuk](#orga34cbb6)
+3.  [Kahvaltılıklar](#org44d3e67)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org29ca481)
+    2.  [Avokadolu Yumurta Dolması](#org14c092c)
+    3.  [Fesleğenli Krem Peynir](#orga9e0538)
+4.  [Makarnalar](#org7874cd8)
+    1.  [Domates ve Fesleğenli Taze Makarna](#orge31a337)
+5.  [Tatlılar](#org333234f)
+    1.  [Frambuazlı Yaş Pasta](#orga5595de)
+    2.  [Leblebili Kurabiye](#org8724634)
+    3.  [San Sebastian Cheesecake](#orgd349e22)
+    4.  [Bisküvili Çikolata Topları](#orgc9b9cab)
+    5.  [Kıtır Karpuz Kabuğu Tatlısı](#org7db86cb)
+    6.  [Ispanaklı Pasta](#org289c2c9)
 
 
 
-<a id="orgf3c2c5f"></a>
+<a id="org8ec05ba"></a>
 
 # Et Yemekleri
 
 
-<a id="orgacad84e"></a>
+<a id="orgc5a935d"></a>
 
 ## Soğan Kebabı
 
@@ -64,12 +66,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200°C fırında 1 saat pişir.
 
 
-<a id="org1f09a76"></a>
+<a id="org668fef5"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="org720427b"></a>
+<a id="orgd48b142"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -109,7 +111,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="org66f0dd5"></a>
+<a id="orga34cbb6"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -128,7 +130,7 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 
 ### Malzemeler
 
--   500 gram tavuk göğsü
+-   500 g tavuk göğsü
 -   4 yemek kaşığı + 2 yemek kaşığı soya sosu
 -   3 yemek kaşığı sirke
 -   2 yemek kaşığı nişasta
@@ -149,12 +151,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="org387c32c"></a>
+<a id="org44d3e67"></a>
 
 # Kahvaltılıklar
 
 
-<a id="orgb69aee4"></a>
+<a id="org29ca481"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -196,7 +198,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="orge0dbc10"></a>
+<a id="org14c092c"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -239,7 +241,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="orgde39b9f"></a>
+<a id="orga9e0538"></a>
 
 ## Fesleğenli Krem Peynir
 
@@ -250,7 +252,7 @@ Bir parçada (yarım yumurta):
 
 ### Besin Değerleri
 
-100 gramda:
+100 g üründe:
 
 -   205 kcal
 -   15 g protein
@@ -274,12 +276,92 @@ Bir parçada (yarım yumurta):
 -   Beyaz peyniri istenen aroma ve kıvam elde edilene kadar yavaş yavaş ekleyip robottan geçir.
 
 
-<a id="org9f321dc"></a>
+<a id="org7874cd8"></a>
+
+# Makarnalar
+
+
+<a id="orge31a337"></a>
+
+## Domates ve Fesleğenli Taze Makarna
+
+![img](./images/domates_ve_feslegenli_taze_makarna.jpeg)
+
+-   Zorluk: Orta
+
+
+### Malzemeler
+
+1.  Makarna
+
+    -   100 g un
+    -   1 yumurta
+    -   1 tatlı kaşığı tuz
+
+2.  Sos
+
+    -   1 yemek kaşığı tereyağı
+    -   1 domates
+    -   1 yemek kaşığı domates salçası
+    -   1 tatlı kaşığı biber salçası
+    -   1 tatlı kaşığı kuru fesleğen
+    -   1 çay kaşığı pul biber
+    -   Yarım çay kaşığı karabiber
+    -   Tuz
+
+
+### Tarif
+
+1.  Makarna
+
+    -   Hamurun açılacağı tezgaha elenmiş unu tepe şeklinde dök.
+    -   Üzerine tuzu ekle.
+    -   Tepenin ortasında bir çukur oluştur.
+    -   Çukurun içine yumurtayı kır.
+    -   Spatulayla hamur biraz toparlanana kadar karıştır.
+    -   Hamur biraz toparlandıktan sonra elle yoğurmaya başla.
+    -   Sert ama dağılmayan bir hamur elde edene kadar yoğur.
+    -   Eğer hamur cıvık olursa kontrollü şekilde elenmiş un ekle.
+    -   Eğer hamur fazla sert ve yoğururken dağılan bir kıvamda olursa elini hafifçe ıslatıp yoğurmaya
+        devam et.
+    -   İstenen kıvama gelen hamuru üzerini kapatarak oda sıcaklığında yarım saat dinlendir.
+    -   Hamuru açmaya başlamadan önce tencerede bir miktar suyu kaynamaya al.
+    -   Dinlenen hamuru iki eşit parçaya böl.
+    -   Tezgahın üstüne hafifçe un serpip parçalardan birini üstüne al.
+    -   Hamur parçasının üzerine de bir miktar un serpip merdane ile açmaya başla.
+    -   İnce ve uzun bir dikdörtgen elde edecek şekilde hamuru incelterek aç.
+    -   Açarken ara ara hamuru ters yüz edip hafifçe un serp.
+    -   Hamur istenen kalınlık ve uzunluğa geldiğinde hamurun iki yüzüne hafifçe un serpip elle
+        hafifçe dağıt. Bu katlanan hamurun diğer katlara yapışmaması için gerekli.
+    -   Dikdörtgen şeklindeki hamuru bıçakla kesebilmek için birkaç kat katla.
+    -   Katladığın hamuru bıçakla fazla dağıtmamaya ve hamurları birbirine yapıştırmamaya gayret
+        göstererek kes.
+    -   Kesilen ve katlı durumda olan makarnaları açarak tek bir uzun şerit haline getir.
+    -   Aynı işlemleri tüm hamur bezeleri için tekrarla.
+    -   Hazırladığın makarnaları kaynamakta olan suyun içine at.
+    -   Makarnaları 5-6 dakika haşla.
+    -   Haşlanan makarnaları süzgeç içine koyup soğuk sudan geçir.
+
+2.  Sos
+
+    -   Domatesi rendele.
+    -   Tereyağını tavada erit.
+    -   Eriyen tereyağının üzerine salçaları ekleyip bir süre kavur.
+    -   Rendelenmiş domatesi ekleyip karıştır.
+    -   Domatesin diriliği gidip suyu azalana kadar arada karıştırarak kavur.
+    -   Baharatları ekleyip bir süre de baharatlarla kavur.
+    -   Baharatların kokusu çıkıp sosun suyu iyice azalınca makarnanın haşlandığı sudan ilave ederek
+        kıvamını ayarla.
+    -   İstenen kıvama gelip kaynayan sosa suyu süzülen makarnaları ekle.
+    -   Makarnaları iyice sos ile harmanla.
+
+
+<a id="org333234f"></a>
 
 # Tatlılar
 
 
-<a id="org5cbf9e8"></a>
+<a id="orga5595de"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -300,10 +382,10 @@ Bir dilimde (tüm tarif 8 dilim):
 
 1.  Kek
 
-    -   150 gr tereyağı
-    -   300 gr toz şeker
-    -   210 gr un
-    -   50 gr kakao
+    -   150 g tereyağı
+    -   300 g toz şeker
+    -   210 g un
+    -   50 g kakao
     -   1 yemek kaşığı granül kahve
     -   160 ml sıcak su
     -   70 g yoğurt
@@ -379,7 +461,7 @@ Bir dilimde (tüm tarif 8 dilim):
     -   Her krema yığının üzerine bir adet frambuaz ekle.
 
 
-<a id="org86a0f1f"></a>
+<a id="org8724634"></a>
 
 ## Leblebili Kurabiye
 
@@ -410,7 +492,7 @@ TODO
 -   180°C fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="org0baacd0"></a>
+<a id="orgd349e22"></a>
 
 ## San Sebastian Cheesecake
 
@@ -449,7 +531,7 @@ Bir dilimde (tüm tarif 8 dilim):
 -   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
 
-<a id="orgf82aa5a"></a>
+<a id="orgc9b9cab"></a>
 
 ## Bisküvili Çikolata Topları
 
@@ -485,7 +567,7 @@ TODO
 -   Buzdolabında en az bir saat soğut.
 
 
-<a id="orgbf84d94"></a>
+<a id="org7db86cb"></a>
 
 ## Kıtır Karpuz Kabuğu Tatlısı
 
@@ -516,7 +598,7 @@ TODO
 -   Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
 
 
-<a id="orgf0d050c"></a>
+<a id="org289c2c9"></a>
 
 ## Ispanaklı Pasta
 
