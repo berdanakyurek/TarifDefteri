@@ -32,7 +32,7 @@
 
 * Tavuk Yemekleri
 ** Kayısı Marmelatlı Tavuk
-   [[./images/kayisi_marmelatli_tavuk.jpeg]]
+   [[./images/kayisi-marmelatli-tavuk.jpeg]]
    + Zorluk: Kolay
 *** Besin Değerleri
     Bir parçada (tarifin tamamı 12 parça):
@@ -90,7 +90,7 @@
 * Kahvaltılıklar
 
 ** Füme Kaburga Ve Cheddarlı Yumurta Dolması
-   [[./images/kaburga_fumeli_yumurta_dolmasi.jpeg]]
+   [[./images/kaburga-fumeli-yumurta-dolmasi.jpeg]]
    + Zorluk: Orta
 *** Besin Değerleri
     Bir parçada (yarım yumurta):
@@ -118,7 +118,7 @@
     + Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 ** Avokadolu Yumurta Dolması
-   [[./images/avokadolu_yumurta_dolmasi.jpeg]]
+   [[./images/avokadolu-yumurta-dolmasi.jpeg]]
    + Zorluk: Orta
 *** Besin Değerleri
     Bir parçada (yarım yumurta):
@@ -148,7 +148,7 @@
     + Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 ** Fesleğenli Krem Peynir
-   [[./images/feslegenli_krem_peynir.jpeg]]
+   [[./images/feslegenli-krem-peynir.jpeg]]
    + Zorluk: Kolay
 
 *** Besin Değerleri
@@ -174,7 +174,7 @@
 * Makarnalar
 
 ** Domates ve Fesleğenli Makarna
-   [[./images/domates_ve_feslegenli_taze_makarna.jpeg]]
+   [[./images/domates-ve-feslegenli-taze-makarna.jpeg]]
    + Zorluk: Orta
 
 *** Malzemeler
@@ -385,7 +385,7 @@
     + Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
 
 ** Ispanaklı Pasta
-   [[./images/ispanakli_pasta.jpeg]]
+   [[./images/ispanakli-pasta.jpeg]]
    + Zorluk: Orta
 
 *** Besin Değerleri
@@ -450,7 +450,8 @@
      + Ayrılan kek parçalarını robottan geçirerek ufala.
      + Ufalanan kek parçalarını en üste serpiştir.
 
-** Browni Kurabiye
+** Şerbetli Çatlak Kurabiye
+   [[./images/serbetli-catlak-kurabiye.jpeg]]
    + Zorluk: Kolay
 
 *** Besin Değerleri
@@ -491,6 +492,7 @@
 * Hamur İşleri
 
 ** Beyaz Ekmek
+   [[./images/beyaz-ekmek.jpeg]]
    + Zorluk: Orta
 
 *** Malzemeler
