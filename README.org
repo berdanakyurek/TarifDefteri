@@ -173,69 +173,34 @@
 
 * Makarnalar
 
-** Domates ve Fesleğenli Taze Makarna
+** Domates ve Fesleğenli Makarna
    [[./images/domates_ve_feslegenli_taze_makarna.jpeg]]
    + Zorluk: Orta
 
 *** Malzemeler
 
-**** Makarna
-     + 100 g un
-     + 1 yumurta
-     + 1 tatlı kaşığı tuz
-
-**** Sos
-     + 1 yemek kaşığı tereyağı
-     + 1 domates
-     + 1 yemek kaşığı domates salçası
-     + 1 tatlı kaşığı biber salçası
-     + 1 tatlı kaşığı kuru fesleğen
-     + 1 çay kaşığı pul biber
-     + Yarım çay kaşığı karabiber
-     + Tuz
+    + Haşlanmış makarna
+    + 1 yemek kaşığı tereyağı
+    + 1 domates
+    + 1 yemek kaşığı domates salçası
+    + 1 tatlı kaşığı biber salçası
+    + 1 tatlı kaşığı kuru fesleğen
+    + 1 çay kaşığı pul biber
+    + Yarım çay kaşığı karabiber
+    + Tuz
 
 *** Tarif
 
-**** Makarna
-     + Hamurun açılacağı tezgaha elenmiş unu tepe şeklinde dök.
-     + Üzerine tuzu ekle.
-     + Tepenin ortasında bir çukur oluştur.
-     + Çukurun içine yumurtayı kır.
-     + Spatulayla hamur biraz toparlanana kadar karıştır.
-     + Hamur biraz toparlandıktan sonra elle yoğurmaya başla.
-     + Sert ama dağılmayan bir hamur elde edene kadar yoğur.
-     + Eğer hamur cıvık olursa kontrollü şekilde elenmiş un ekle.
-     + Eğer hamur fazla sert ve yoğururken dağılan bir kıvamda olursa elini hafifçe ıslatıp yoğurmaya
-       devam et.
-     + İstenen kıvama gelen hamuru üzerini kapatarak oda sıcaklığında yarım saat dinlendir.
-     + Hamuru açmaya başlamadan önce tencerede bir miktar suyu kaynamaya al.
-     + Dinlenen hamuru iki eşit parçaya böl.
-     + Tezgahın üstüne hafifçe un serpip parçalardan birini üstüne al.
-     + Hamur parçasının üzerine de bir miktar un serpip merdane ile açmaya başla.
-     + İnce ve uzun bir dikdörtgen elde edecek şekilde hamuru incelterek aç.
-     + Açarken ara ara hamuru ters yüz edip hafifçe un serp.
-     + Hamur istenen kalınlık ve uzunluğa geldiğinde hamurun iki yüzüne hafifçe un serpip elle
-       hafifçe dağıt. Bu katlanan hamurun diğer katlara yapışmaması için gerekli.
-     + Dikdörtgen şeklindeki hamuru bıçakla kesebilmek için birkaç kat katla.
-     + Katladığın hamuru bıçakla fazla dağıtmamaya ve hamurları birbirine yapıştırmamaya gayret
-       göstererek kes.
-     + Kesilen ve katlı durumda olan makarnaları açarak tek bir uzun şerit haline getir.
-     + Aynı işlemleri tüm hamur bezeleri için tekrarla.
-     + Hazırladığın makarnaları kaynamakta olan suyun içine at.
-     + Makarnaları 5-6 dakika haşla.
-     + Haşlanan makarnaları süzgeç içine koyup soğuk sudan geçir.
-
-**** Sos
-     + Domatesi rendele.
-     + Tereyağını tavada erit.
-     + Eriyen tereyağının üzerine salçaları ekleyip bir süre kavur.
-     + Rendelenmiş domatesi ekleyip karıştır.
-     + Domatesin diriliği gidip suyu azalana kadar arada karıştırarak kavur.
-     + Baharatları ekleyip bir süre de baharatlarla kavur.
-     + Baharatların kokusu çıkıp sosun suyu iyice azalınca makarnanın haşlandığı sudan ilave ederek
-       kıvamını ayarla.
-     + İstenen kıvama gelip kaynayan sosa suyu süzülen makarnaları ekle.
-     + Makarnaları iyice sos ile harmanla.
+    + Domatesi rendele.
+    + Tereyağını tavada erit.
+    + Eriyen tereyağının üzerine salçaları ekleyip bir süre kavur.
+    + Rendelenmiş domatesi ekleyip karıştır.
+    + Domatesin diriliği gidip suyu azalana kadar arada karıştırarak kavur.
+    + Baharatları ekleyip bir süre de baharatlarla kavur.
+    + Baharatların kokusu çıkıp sosun suyu iyice azalınca makarnanın haşlandığı sudan ilave ederek
+      kıvamını ayarla.
+    + İstenen kıvama gelip kaynayan sosa suyu süzülen makarnaları ekle.
+    + Haşlanıp süzülen makarnaları iyice sos ile harmanla.
 
 * Tatlılar
 
@@ -484,3 +449,72 @@
      + Üzerine üst katman için hazırlanan krem şantiyi döküp yay.
      + Ayrılan kek parçalarını robottan geçirerek ufala.
      + Ufalanan kek parçalarını en üste serpiştir.
+
+* Hamur İşleri
+
+** Beyaz Ekmek
+   + Zorluk: Orta
+
+*** Malzemeler
+    + 500 g un
+    + 300 ml ılık su
+    + 1 paket yaş maya
+    + 1 tatlı kaşığı tuz
+    + Susam
+
+*** Tarif
+    + El yakmayacak sıcaklıkta ılık suyu, yaş maya ile karıştırarak 10 dakika beklet.
+    + Oda sıcaklığındaki un ve tuzu yoğurma kabına ekleyip ortasını çukurlaştır.
+    + Çukurun ortasına bekletilmiş mayalı suyu ilave et.
+    + Kaşıkla ortadan dışlara doğru karıştır.
+    + Elle yoğurmaya devam et.
+    + İyice yoğurulduktan sonra kapağını kapatıp mayalanma için battaniyeye sar.
+    + Sıcak bir yerde en az 1, en fazla 4 saat mayalanmaya bırak.
+    + Mayalanıp kabaran hamuru tekrar yoğurarak havasını al.
+    + Hamuru hafif unlanmış tezgaha al.
+    + Hamuru istenen büyüklükte bezelere ayır.
+    + Hamura ekmek şeklini verip tepsiye yerleştir.
+    + Üzerlerine bıçakla çizikler at.
+    + Üzerine fırça ile su veya yoğurt sür.
+    + Üzerine susam serp.
+    + Üzerini mutfak bezi ile örtüp 20 dk sıcak bir yerde tekrar mayalanmaya bırak.
+    + Fırının nemli olması için içine ısıya dayanıklı bir kapta su koyup fırını 200°C'ye ısıt.
+    + Bekleyen hamurların üzerini açıp fırında yaklaşık 20 dk pişir.
+
+** Taze Makarna
+   + Zorluk: Kolay
+
+*** Malzemeler
+    + 100 g un
+    + 1 yumurta
+    + 1 tatlı kaşığı tuz
+
+*** Tarif
+    + Hamurun açılacağı tezgaha elenmiş unu tepe şeklinde dök.
+    + Üzerine tuzu ekle.
+    + Tepenin ortasında bir çukur oluştur.
+    + Çukurun içine yumurtayı kır.
+    + Spatulayla hamur biraz toparlanana kadar karıştır.
+    + Hamur biraz toparlandıktan sonra elle yoğurmaya başla.
+    + Sert ama dağılmayan bir hamur elde edene kadar yoğur.
+    + Eğer hamur cıvık olursa kontrollü şekilde elenmiş un ekle.
+    + Eğer hamur fazla sert ve yoğururken dağılan bir kıvamda olursa elini hafifçe ıslatıp yoğurmaya
+      devam et.
+    + İstenen kıvama gelen hamuru üzerini kapatarak oda sıcaklığında yarım saat dinlendir.
+    + Hamuru açmaya başlamadan önce tencerede bir miktar suyu kaynamaya al.
+    + Dinlenen hamuru iki eşit parçaya böl.
+    + Tezgahın üstüne hafifçe un serpip parçalardan birini üstüne al.
+    + Hamur parçasının üzerine de bir miktar un serpip merdane ile açmaya başla.
+    + İnce ve uzun bir dikdörtgen elde edecek şekilde hamuru incelterek aç.
+    + Açarken ara ara hamuru ters yüz edip hafifçe un serp.
+    + Hamur istenen kalınlık ve uzunluğa geldiğinde hamurun iki yüzüne hafifçe un serpip elle
+      hafifçe dağıt. Bu katlanan hamurun diğer katlara yapışmaması için gerekli.
+    + Dikdörtgen şeklindeki hamuru bıçakla kesebilmek için birkaç kat katla.
+    + Katladığın hamuru bıçakla fazla dağıtmamaya ve hamurları birbirine yapıştırmamaya gayret
+      göstererek kes.
+    + Kesilen ve katlı durumda olan makarnaları açarak tek bir uzun şerit haline getir.
+    + Aynı işlemleri tüm hamur bezeleri için tekrarla.
+    + Hazırladığın makarnaları kaynamakta olan suyun içine at.
+    + Makarnaları 5-6 dakika haşla.
+    + Haşlanan makarnaları süzgeç içine koyup süz.
+    + Herhangi bir sos ile soslayarak servis et.
