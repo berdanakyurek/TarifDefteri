@@ -450,6 +450,44 @@
      + Ayrılan kek parçalarını robottan geçirerek ufala.
      + Ufalanan kek parçalarını en üste serpiştir.
 
+** Browni Kurabiye
+   + Zorluk: Kolay
+
+*** Besin Değerleri
+    Bir kurabiyede (tüm tarif 23 kurabiye):
+    + 160 kcal
+    + 2 g protein
+    + 21 g karbonhidrat
+    + 8 g yağ
+
+*** Malzemeler
+
+**** Şerbet
+     + 2 su bardağı su
+     + 1 su bardağı şeker
+
+**** Kurabiye
+     + 1 yumurta
+     + 1 çay bardağı sıvı yağ
+     + 1 çay bardağı pudra şekeri
+     + 125 g tereyağı veya margarin
+     + 1 paket kabartma tozu
+     + 1 paket vanilya
+     + 3 su bardağı un
+     + 3 yemek kaşığı kakao
+
+*** Tarif
+    + Şerbet malzemelerini karıştır.
+    + Şerbeti 5 dk kaynatıp soğumaya bırak.
+    + Yoğurma kabında tereyağı, pudra şekeri ve yumurtayı karıştır.
+    + Sıvı yağı ekleyip karıştırmaya devam et.
+    + Un, kabartma tozu, vanilya ve kakao ekleyip iyice yoğur.
+    + Hamurdan parçalar koparıp kurabiye şekli vererek fırın tepsisine diz.
+    + 200°C fırında 12 dk, üzerleri çatlayana kadar pişir.
+    + Kurabiyeleri fırından alıp 2-3 dk ilk sıcağı geçene kadar beklet.
+    + Kurabiyeleri tek tek ılıyan şerbete daldırıp çıkarıp borcama diz.
+    + Kalan şerbeti kurabiyelerin üzerine gezdir.
+
 * Hamur İşleri
 
 ** Beyaz Ekmek
