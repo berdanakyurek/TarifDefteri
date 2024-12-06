@@ -1,33 +1,37 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#org8ec05ba)
-    1.  [Soğan Kebabı](#orgc5a935d)
-2.  [Tavuk Yemekleri](#org668fef5)
-    1.  [Kayısı Marmelatlı Tavuk](#orgd48b142)
-    2.  [Soya Soslu Sebzeli Tavuk](#orga34cbb6)
-3.  [Kahvaltılıklar](#org44d3e67)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org29ca481)
-    2.  [Avokadolu Yumurta Dolması](#org14c092c)
-    3.  [Fesleğenli Krem Peynir](#orga9e0538)
-4.  [Makarnalar](#org7874cd8)
-    1.  [Domates ve Fesleğenli Taze Makarna](#orge31a337)
-5.  [Tatlılar](#org333234f)
-    1.  [Frambuazlı Yaş Pasta](#orga5595de)
-    2.  [Leblebili Kurabiye](#org8724634)
-    3.  [San Sebastian Cheesecake](#orgd349e22)
-    4.  [Bisküvili Çikolata Topları](#orgc9b9cab)
-    5.  [Kıtır Karpuz Kabuğu Tatlısı](#org7db86cb)
-    6.  [Ispanaklı Pasta](#org289c2c9)
+1.  [Et Yemekleri](#org44bb636)
+    1.  [Soğan Kebabı](#orge99e89f)
+2.  [Tavuk Yemekleri](#org3c92187)
+    1.  [Kayısı Marmelatlı Tavuk](#org6363ee8)
+    2.  [Soya Soslu Sebzeli Tavuk](#org8fa8811)
+3.  [Kahvaltılıklar](#org68d7187)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgd8d254f)
+    2.  [Avokadolu Yumurta Dolması](#org9957d80)
+    3.  [Fesleğenli Krem Peynir](#orge7deef1)
+4.  [Makarnalar](#orgc754e4c)
+    1.  [Domates ve Fesleğenli Makarna](#org34d3bf4)
+5.  [Tatlılar](#orgaf57eb0)
+    1.  [Frambuazlı Yaş Pasta](#org89b3fe6)
+    2.  [Leblebili Kurabiye](#org0238407)
+    3.  [San Sebastian Cheesecake](#org81c7e81)
+    4.  [Bisküvili Çikolata Topları](#org8e98585)
+    5.  [Kıtır Karpuz Kabuğu Tatlısı](#orgcbeae93)
+    6.  [Ispanaklı Pasta](#org67458cb)
+    7.  [Şerbetli Çatlak Kurabiye](#org1895441)
+6.  [Hamur İşleri](#org8191a23)
+    1.  [Beyaz Ekmek](#org1496aec)
+    2.  [Taze Makarna](#org2a53519)
 
 
 
-<a id="org8ec05ba"></a>
+<a id="org44bb636"></a>
 
 # Et Yemekleri
 
 
-<a id="orgc5a935d"></a>
+<a id="orge99e89f"></a>
 
 ## Soğan Kebabı
 
@@ -66,16 +70,16 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200°C fırında 1 saat pişir.
 
 
-<a id="org668fef5"></a>
+<a id="org3c92187"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="orgd48b142"></a>
+<a id="org6363ee8"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
-![img](./images/kayisi_marmelatli_tavuk.jpeg)
+![img](./images/kayisi-marmelatli-tavuk.jpeg)
 
 -   Zorluk: Kolay
 
@@ -111,7 +115,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="orga34cbb6"></a>
+<a id="org8fa8811"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -151,16 +155,16 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="org44d3e67"></a>
+<a id="org68d7187"></a>
 
 # Kahvaltılıklar
 
 
-<a id="org29ca481"></a>
+<a id="orgd8d254f"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
-![img](./images/kaburga_fumeli_yumurta_dolmasi.jpeg)
+![img](./images/kaburga-fumeli-yumurta-dolmasi.jpeg)
 
 -   Zorluk: Orta
 
@@ -198,11 +202,11 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org14c092c"></a>
+<a id="org9957d80"></a>
 
 ## Avokadolu Yumurta Dolması
 
-![img](./images/avokadolu_yumurta_dolmasi.jpeg)
+![img](./images/avokadolu-yumurta-dolmasi.jpeg)
 
 -   Zorluk: Orta
 
@@ -241,11 +245,11 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="orga9e0538"></a>
+<a id="orge7deef1"></a>
 
 ## Fesleğenli Krem Peynir
 
-![img](./images/feslegenli_krem_peynir.jpeg)
+![img](./images/feslegenli-krem-peynir.jpeg)
 
 -   Zorluk: Kolay
 
@@ -276,92 +280,53 @@ Bir parçada (yarım yumurta):
 -   Beyaz peyniri istenen aroma ve kıvam elde edilene kadar yavaş yavaş ekleyip robottan geçir.
 
 
-<a id="org7874cd8"></a>
+<a id="orgc754e4c"></a>
 
 # Makarnalar
 
 
-<a id="orge31a337"></a>
+<a id="org34d3bf4"></a>
 
-## Domates ve Fesleğenli Taze Makarna
+## Domates ve Fesleğenli Makarna
 
-![img](./images/domates_ve_feslegenli_taze_makarna.jpeg)
+![img](./images/domates-ve-feslegenli-taze-makarna.jpeg)
 
 -   Zorluk: Orta
 
 
 ### Malzemeler
 
-1.  Makarna
-
-    -   100 g un
-    -   1 yumurta
-    -   1 tatlı kaşığı tuz
-
-2.  Sos
-
-    -   1 yemek kaşığı tereyağı
-    -   1 domates
-    -   1 yemek kaşığı domates salçası
-    -   1 tatlı kaşığı biber salçası
-    -   1 tatlı kaşığı kuru fesleğen
-    -   1 çay kaşığı pul biber
-    -   Yarım çay kaşığı karabiber
-    -   Tuz
+-   Haşlanmış makarna
+-   1 yemek kaşığı tereyağı
+-   1 domates
+-   1 yemek kaşığı domates salçası
+-   1 tatlı kaşığı biber salçası
+-   1 tatlı kaşığı kuru fesleğen
+-   1 çay kaşığı pul biber
+-   Yarım çay kaşığı karabiber
+-   Tuz
 
 
 ### Tarif
 
-1.  Makarna
-
-    -   Hamurun açılacağı tezgaha elenmiş unu tepe şeklinde dök.
-    -   Üzerine tuzu ekle.
-    -   Tepenin ortasında bir çukur oluştur.
-    -   Çukurun içine yumurtayı kır.
-    -   Spatulayla hamur biraz toparlanana kadar karıştır.
-    -   Hamur biraz toparlandıktan sonra elle yoğurmaya başla.
-    -   Sert ama dağılmayan bir hamur elde edene kadar yoğur.
-    -   Eğer hamur cıvık olursa kontrollü şekilde elenmiş un ekle.
-    -   Eğer hamur fazla sert ve yoğururken dağılan bir kıvamda olursa elini hafifçe ıslatıp yoğurmaya
-        devam et.
-    -   İstenen kıvama gelen hamuru üzerini kapatarak oda sıcaklığında yarım saat dinlendir.
-    -   Hamuru açmaya başlamadan önce tencerede bir miktar suyu kaynamaya al.
-    -   Dinlenen hamuru iki eşit parçaya böl.
-    -   Tezgahın üstüne hafifçe un serpip parçalardan birini üstüne al.
-    -   Hamur parçasının üzerine de bir miktar un serpip merdane ile açmaya başla.
-    -   İnce ve uzun bir dikdörtgen elde edecek şekilde hamuru incelterek aç.
-    -   Açarken ara ara hamuru ters yüz edip hafifçe un serp.
-    -   Hamur istenen kalınlık ve uzunluğa geldiğinde hamurun iki yüzüne hafifçe un serpip elle
-        hafifçe dağıt. Bu katlanan hamurun diğer katlara yapışmaması için gerekli.
-    -   Dikdörtgen şeklindeki hamuru bıçakla kesebilmek için birkaç kat katla.
-    -   Katladığın hamuru bıçakla fazla dağıtmamaya ve hamurları birbirine yapıştırmamaya gayret
-        göstererek kes.
-    -   Kesilen ve katlı durumda olan makarnaları açarak tek bir uzun şerit haline getir.
-    -   Aynı işlemleri tüm hamur bezeleri için tekrarla.
-    -   Hazırladığın makarnaları kaynamakta olan suyun içine at.
-    -   Makarnaları 5-6 dakika haşla.
-    -   Haşlanan makarnaları süzgeç içine koyup soğuk sudan geçir.
-
-2.  Sos
-
-    -   Domatesi rendele.
-    -   Tereyağını tavada erit.
-    -   Eriyen tereyağının üzerine salçaları ekleyip bir süre kavur.
-    -   Rendelenmiş domatesi ekleyip karıştır.
-    -   Domatesin diriliği gidip suyu azalana kadar arada karıştırarak kavur.
-    -   Baharatları ekleyip bir süre de baharatlarla kavur.
-    -   Baharatların kokusu çıkıp sosun suyu iyice azalınca makarnanın haşlandığı sudan ilave ederek
-        kıvamını ayarla.
-    -   İstenen kıvama gelip kaynayan sosa suyu süzülen makarnaları ekle.
-    -   Makarnaları iyice sos ile harmanla.
+-   Domatesi rendele.
+-   Tereyağını tavada erit.
+-   Eriyen tereyağının üzerine salçaları ekleyip bir süre kavur.
+-   Rendelenmiş domatesi ekleyip karıştır.
+-   Domatesin diriliği gidip suyu azalana kadar arada karıştırarak kavur.
+-   Baharatları ekleyip bir süre de baharatlarla kavur.
+-   Baharatların kokusu çıkıp sosun suyu iyice azalınca makarnanın haşlandığı sudan ilave ederek
+    kıvamını ayarla.
+-   İstenen kıvama gelip kaynayan sosa suyu süzülen makarnaları ekle.
+-   Haşlanıp süzülen makarnaları iyice sos ile harmanla.
 
 
-<a id="org333234f"></a>
+<a id="orgaf57eb0"></a>
 
 # Tatlılar
 
 
-<a id="orga5595de"></a>
+<a id="org89b3fe6"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -461,7 +426,7 @@ Bir dilimde (tüm tarif 8 dilim):
     -   Her krema yığının üzerine bir adet frambuaz ekle.
 
 
-<a id="org8724634"></a>
+<a id="org0238407"></a>
 
 ## Leblebili Kurabiye
 
@@ -492,7 +457,7 @@ TODO
 -   180°C fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="orgd349e22"></a>
+<a id="org81c7e81"></a>
 
 ## San Sebastian Cheesecake
 
@@ -531,7 +496,7 @@ Bir dilimde (tüm tarif 8 dilim):
 -   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
 
-<a id="orgc9b9cab"></a>
+<a id="org8e98585"></a>
 
 ## Bisküvili Çikolata Topları
 
@@ -567,7 +532,7 @@ TODO
 -   Buzdolabında en az bir saat soğut.
 
 
-<a id="org7db86cb"></a>
+<a id="orgcbeae93"></a>
 
 ## Kıtır Karpuz Kabuğu Tatlısı
 
@@ -598,11 +563,11 @@ TODO
 -   Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
 
 
-<a id="org289c2c9"></a>
+<a id="org67458cb"></a>
 
 ## Ispanaklı Pasta
 
-![img](./images/ispanakli_pasta.jpeg)
+![img](./images/ispanakli-pasta.jpeg)
 
 -   Zorluk: Orta
 
@@ -680,4 +645,146 @@ Bir dilimde (tüm tarif 15 dilim):
     -   Üzerine üst katman için hazırlanan krem şantiyi döküp yay.
     -   Ayrılan kek parçalarını robottan geçirerek ufala.
     -   Ufalanan kek parçalarını en üste serpiştir.
+
+
+<a id="org1895441"></a>
+
+## Şerbetli Çatlak Kurabiye
+
+![img](./images/serbetli-catlak-kurabiye.jpeg)
+
+-   Zorluk: Kolay
+
+
+### Besin Değerleri
+
+Bir kurabiyede (tüm tarif 23 kurabiye):
+
+-   160 kcal
+-   2 g protein
+-   21 g karbonhidrat
+-   8 g yağ
+
+
+### Malzemeler
+
+1.  Şerbet
+
+    -   2 su bardağı su
+    -   1 su bardağı şeker
+
+2.  Kurabiye
+
+    -   1 yumurta
+    -   1 çay bardağı sıvı yağ
+    -   1 çay bardağı pudra şekeri
+    -   125 g tereyağı veya margarin
+    -   1 paket kabartma tozu
+    -   1 paket vanilya
+    -   3 su bardağı un
+    -   3 yemek kaşığı kakao
+
+
+### Tarif
+
+-   Şerbet malzemelerini karıştır.
+-   Şerbeti 5 dk kaynatıp soğumaya bırak.
+-   Yoğurma kabında tereyağı, pudra şekeri ve yumurtayı karıştır.
+-   Sıvı yağı ekleyip karıştırmaya devam et.
+-   Un, kabartma tozu, vanilya ve kakao ekleyip iyice yoğur.
+-   Hamurdan parçalar koparıp kurabiye şekli vererek fırın tepsisine diz.
+-   200°C fırında 12 dk, üzerleri çatlayana kadar pişir.
+-   Kurabiyeleri fırından alıp 2-3 dk ilk sıcağı geçene kadar beklet.
+-   Kurabiyeleri tek tek ılıyan şerbete daldırıp çıkarıp borcama diz.
+-   Kalan şerbeti kurabiyelerin üzerine gezdir.
+
+
+<a id="org8191a23"></a>
+
+# Hamur İşleri
+
+
+<a id="org1496aec"></a>
+
+## Beyaz Ekmek
+
+![img](./images/beyaz-ekmek.jpeg)
+
+-   Zorluk: Orta
+
+
+### Malzemeler
+
+-   500 g un
+-   300 ml ılık su
+-   1 paket yaş maya
+-   1 tatlı kaşığı tuz
+-   Susam
+
+
+### Tarif
+
+-   El yakmayacak sıcaklıkta ılık suyu, yaş maya ile karıştırarak 10 dakika beklet.
+-   Oda sıcaklığındaki un ve tuzu yoğurma kabına ekleyip ortasını çukurlaştır.
+-   Çukurun ortasına bekletilmiş mayalı suyu ilave et.
+-   Kaşıkla ortadan dışlara doğru karıştır.
+-   Elle yoğurmaya devam et.
+-   İyice yoğurulduktan sonra kapağını kapatıp mayalanma için battaniyeye sar.
+-   Sıcak bir yerde en az 1, en fazla 4 saat mayalanmaya bırak.
+-   Mayalanıp kabaran hamuru tekrar yoğurarak havasını al.
+-   Hamuru hafif unlanmış tezgaha al.
+-   Hamuru istenen büyüklükte bezelere ayır.
+-   Hamura ekmek şeklini verip tepsiye yerleştir.
+-   Üzerlerine bıçakla çizikler at.
+-   Üzerine fırça ile su veya yoğurt sür.
+-   Üzerine susam serp.
+-   Üzerini mutfak bezi ile örtüp 20 dk sıcak bir yerde tekrar mayalanmaya bırak.
+-   Fırının nemli olması için içine ısıya dayanıklı bir kapta su koyup fırını 200°C'ye ısıt.
+-   Bekleyen hamurların üzerini açıp fırında yaklaşık 20 dk pişir.
+
+
+<a id="org2a53519"></a>
+
+## Taze Makarna
+
+-   Zorluk: Kolay
+
+
+### Malzemeler
+
+-   100 g un
+-   1 yumurta
+-   1 tatlı kaşığı tuz
+
+
+### Tarif
+
+-   Hamurun açılacağı tezgaha elenmiş unu tepe şeklinde dök.
+-   Üzerine tuzu ekle.
+-   Tepenin ortasında bir çukur oluştur.
+-   Çukurun içine yumurtayı kır.
+-   Spatulayla hamur biraz toparlanana kadar karıştır.
+-   Hamur biraz toparlandıktan sonra elle yoğurmaya başla.
+-   Sert ama dağılmayan bir hamur elde edene kadar yoğur.
+-   Eğer hamur cıvık olursa kontrollü şekilde elenmiş un ekle.
+-   Eğer hamur fazla sert ve yoğururken dağılan bir kıvamda olursa elini hafifçe ıslatıp yoğurmaya
+    devam et.
+-   İstenen kıvama gelen hamuru üzerini kapatarak oda sıcaklığında yarım saat dinlendir.
+-   Hamuru açmaya başlamadan önce tencerede bir miktar suyu kaynamaya al.
+-   Dinlenen hamuru iki eşit parçaya böl.
+-   Tezgahın üstüne hafifçe un serpip parçalardan birini üstüne al.
+-   Hamur parçasının üzerine de bir miktar un serpip merdane ile açmaya başla.
+-   İnce ve uzun bir dikdörtgen elde edecek şekilde hamuru incelterek aç.
+-   Açarken ara ara hamuru ters yüz edip hafifçe un serp.
+-   Hamur istenen kalınlık ve uzunluğa geldiğinde hamurun iki yüzüne hafifçe un serpip elle
+    hafifçe dağıt. Bu katlanan hamurun diğer katlara yapışmaması için gerekli.
+-   Dikdörtgen şeklindeki hamuru bıçakla kesebilmek için birkaç kat katla.
+-   Katladığın hamuru bıçakla fazla dağıtmamaya ve hamurları birbirine yapıştırmamaya gayret
+    göstererek kes.
+-   Kesilen ve katlı durumda olan makarnaları açarak tek bir uzun şerit haline getir.
+-   Aynı işlemleri tüm hamur bezeleri için tekrarla.
+-   Hazırladığın makarnaları kaynamakta olan suyun içine at.
+-   Makarnaları 5-6 dakika haşla.
+-   Haşlanan makarnaları süzgeç içine koyup süz.
+-   Herhangi bir sos ile soslayarak servis et.
 
