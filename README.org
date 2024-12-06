@@ -174,7 +174,7 @@
 * Makarnalar
 
 ** Domates ve Fesleğenli Makarna
-   [[./images/domates-ve-feslegenli-taze-makarna.jpeg]]
+   [[./images/domates-ve-feslegenli-makarna.jpeg]]
    + Zorluk: Orta
 
 *** Malzemeler
