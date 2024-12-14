@@ -1,37 +1,42 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#org165a037)
-    1.  [Soğan Kebabı](#org1403863)
-2.  [Tavuk Yemekleri](#org6a3f553)
-    1.  [Kayısı Marmelatlı Tavuk](#orgac1e711)
-    2.  [Soya Soslu Sebzeli Tavuk](#org19dbbf7)
-3.  [Kahvaltılıklar](#org61af4f3)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org81f6d65)
-    2.  [Avokadolu Yumurta Dolması](#orgf365ac1)
-    3.  [Fesleğenli Krem Peynir](#org8702fa9)
-4.  [Makarnalar](#org6b588c8)
-    1.  [Domates ve Fesleğenli Makarna](#org7d869d4)
-5.  [Tatlılar](#orgc965150)
-    1.  [Frambuazlı Yaş Pasta](#org95b740f)
-    2.  [Leblebili Kurabiye](#org2ac90cd)
-    3.  [San Sebastian Cheesecake](#orgdc4974f)
-    4.  [Bisküvili Çikolata Topları](#orgd6675f9)
-    5.  [Kıtır Karpuz Kabuğu Tatlısı](#orgf193e1e)
-    6.  [Ispanaklı Pasta](#org42bc0dd)
-    7.  [Şerbetli Çatlak Kurabiye](#orgb815e93)
-6.  [Hamur İşleri](#orgb563abe)
-    1.  [Beyaz Ekmek](#org1135ee6)
-    2.  [Taze Makarna](#orgd35b9d2)
+1.  [Et Yemekleri](#orgc192a10)
+    1.  [Soğan Kebabı](#org9740eb3)
+2.  [Tavuk Yemekleri](#org9ff7465)
+    1.  [Kayısı Marmelatlı Tavuk](#org6414cd2)
+    2.  [Soya Soslu Sebzeli Tavuk](#org647db11)
+3.  [Kahvaltılıklar](#orged4c489)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgcba9331)
+    2.  [Avokadolu Yumurta Dolması](#orgd123464)
+    3.  [Fesleğenli Krem Peynir](#org6e53f5d)
+4.  [Makarnalar](#orgd1835cc)
+    1.  [Domates ve Fesleğenli Makarna](#orgb0fc546)
+5.  [Tatlılar](#org3f65421)
+    1.  [Frambuazlı Yaş Pasta](#org3ae92f0)
+    2.  [Leblebili Kurabiye](#org6cf9250)
+    3.  [San Sebastian Cheesecake](#org738c74b)
+    4.  [Bisküvili Çikolata Topları](#orgc151f8d)
+    5.  [Kıtır Karpuz Kabuğu Tatlısı](#orgf1461a5)
+    6.  [Ispanaklı Pasta](#orgbf25174)
+    7.  [Şerbetli Çatlak Kurabiye](#org4651d1c)
+6.  [Hamur İşleri](#orgeb80826)
+    1.  [Beyaz Ekmek](#orgeb1b340)
+    2.  [Taze Makarna](#orgb81fd70)
+    3.  [Hamburger Ekmeği](#org127ec03)
+7.  [Fast Food](#org295a197)
+    1.  [Klasik Hamburger](#org3fd787e)
+8.  [Çorbalar](#org973fef1)
+    1.  [Tavuk Sulu Yer Elması Çorbası](#org71414c7)
 
 
 
-<a id="org165a037"></a>
+<a id="orgc192a10"></a>
 
 # Et Yemekleri
 
 
-<a id="org1403863"></a>
+<a id="org9740eb3"></a>
 
 ## Soğan Kebabı
 
@@ -70,12 +75,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200°C fırında 1 saat pişir.
 
 
-<a id="org6a3f553"></a>
+<a id="org9ff7465"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="orgac1e711"></a>
+<a id="org6414cd2"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -115,7 +120,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="org19dbbf7"></a>
+<a id="org647db11"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -155,12 +160,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="org61af4f3"></a>
+<a id="orged4c489"></a>
 
 # Kahvaltılıklar
 
 
-<a id="org81f6d65"></a>
+<a id="orgcba9331"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -202,7 +207,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="orgf365ac1"></a>
+<a id="orgd123464"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -245,7 +250,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org8702fa9"></a>
+<a id="org6e53f5d"></a>
 
 ## Fesleğenli Krem Peynir
 
@@ -280,12 +285,12 @@ Bir parçada (yarım yumurta):
 -   Beyaz peyniri istenen aroma ve kıvam elde edilene kadar yavaş yavaş ekleyip robottan geçir.
 
 
-<a id="org6b588c8"></a>
+<a id="orgd1835cc"></a>
 
 # Makarnalar
 
 
-<a id="org7d869d4"></a>
+<a id="orgb0fc546"></a>
 
 ## Domates ve Fesleğenli Makarna
 
@@ -321,12 +326,12 @@ Bir parçada (yarım yumurta):
 -   Haşlanıp süzülen makarnaları iyice sos ile harmanla.
 
 
-<a id="orgc965150"></a>
+<a id="org3f65421"></a>
 
 # Tatlılar
 
 
-<a id="org95b740f"></a>
+<a id="org3ae92f0"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -426,7 +431,7 @@ Bir dilimde (tüm tarif 8 dilim):
     -   Her krema yığının üzerine bir adet frambuaz ekle.
 
 
-<a id="org2ac90cd"></a>
+<a id="org6cf9250"></a>
 
 ## Leblebili Kurabiye
 
@@ -457,7 +462,7 @@ TODO
 -   180°C fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="orgdc4974f"></a>
+<a id="org738c74b"></a>
 
 ## San Sebastian Cheesecake
 
@@ -496,7 +501,7 @@ Bir dilimde (tüm tarif 8 dilim):
 -   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
 
-<a id="orgd6675f9"></a>
+<a id="orgc151f8d"></a>
 
 ## Bisküvili Çikolata Topları
 
@@ -532,7 +537,7 @@ TODO
 -   Buzdolabında en az bir saat soğut.
 
 
-<a id="orgf193e1e"></a>
+<a id="orgf1461a5"></a>
 
 ## Kıtır Karpuz Kabuğu Tatlısı
 
@@ -563,7 +568,7 @@ TODO
 -   Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
 
 
-<a id="org42bc0dd"></a>
+<a id="orgbf25174"></a>
 
 ## Ispanaklı Pasta
 
@@ -647,7 +652,7 @@ Bir dilimde (tüm tarif 15 dilim):
     -   Ufalanan kek parçalarını en üste serpiştir.
 
 
-<a id="orgb815e93"></a>
+<a id="org4651d1c"></a>
 
 ## Şerbetli Çatlak Kurabiye
 
@@ -699,12 +704,12 @@ Bir kurabiyede (tüm tarif 23 kurabiye):
 -   Kalan şerbeti kurabiyelerin üzerine gezdir.
 
 
-<a id="orgb563abe"></a>
+<a id="orgeb80826"></a>
 
 # Hamur İşleri
 
 
-<a id="org1135ee6"></a>
+<a id="orgeb1b340"></a>
 
 ## Beyaz Ekmek
 
@@ -717,7 +722,8 @@ Bir kurabiyede (tüm tarif 23 kurabiye):
 
 -   500 g un
 -   300 ml ılık su
--   1 paket yaş maya
+-   Yarım paket yaş maya
+-   1 yemek kaşığı şeker
 -   1 tatlı kaşığı tuz
 -   Susam
 
@@ -725,25 +731,26 @@ Bir kurabiyede (tüm tarif 23 kurabiye):
 ### Tarif
 
 -   El yakmayacak sıcaklıkta ılık suyu, yaş maya ile karıştırarak 10 dakika beklet.
--   Oda sıcaklığındaki un ve tuzu yoğurma kabına ekleyip ortasını çukurlaştır.
+-   Oda sıcaklığındaki un, tuz ve şekeri yoğurma kabına ekleyip, karıştırıp ortasını çukurlaştır.
 -   Çukurun ortasına bekletilmiş mayalı suyu ilave et.
 -   Kaşıkla ortadan dışlara doğru karıştır.
 -   Elle yoğurmaya devam et.
--   İyice yoğurulduktan sonra kapağını kapatıp mayalanma için battaniyeye sar.
+-   Un ve hamur birleştiğinde hamuru vurup katlayarak iyice pürüzsüz hale getir.
+-   Tekrar yoğurma kabına alıp, kapağını kapatıp mayalanma için battaniyeye sar.
 -   Sıcak bir yerde en az 1, en fazla 4 saat mayalanmaya bırak.
--   Mayalanıp kabaran hamuru tekrar yoğurarak havasını al.
+-   Mayalanıp kabaran hamuru tekrar hafifçe yoğurarak havasını al.
 -   Hamuru hafif unlanmış tezgaha al.
--   Hamuru istenen büyüklükte bezelere ayır.
+-   Hamuru istenen büyüklükte bezelere ayır (normal boyutta ekmekler için 3 eşit parçaya ayır).
 -   Hamura ekmek şeklini verip tepsiye yerleştir.
 -   Üzerlerine bıçakla çizikler at.
--   Üzerine fırça ile su veya yoğurt sür.
+-   Üzerine fırça ile su sür.
 -   Üzerine susam serp.
 -   Üzerini mutfak bezi ile örtüp 20 dk sıcak bir yerde tekrar mayalanmaya bırak.
 -   Fırının nemli olması için içine ısıya dayanıklı bir kapta su koyup fırını 200°C'ye ısıt.
 -   Bekleyen hamurların üzerini açıp fırında yaklaşık 20 dk pişir.
 
 
-<a id="orgd35b9d2"></a>
+<a id="orgb81fd70"></a>
 
 ## Taze Makarna
 
@@ -787,4 +794,163 @@ Bir kurabiyede (tüm tarif 23 kurabiye):
 -   Makarnaları 5-6 dakika haşla.
 -   Haşlanan makarnaları süzgeç içine koyup süz.
 -   Herhangi bir sos ile soslayarak servis et.
+
+
+<a id="org127ec03"></a>
+
+## Hamburger Ekmeği
+
+![img](./images/hamburger-ekmegi.jpeg)
+
+-   Zorluk: Orta
+
+
+### Malzemeler
+
+1.  Süt Meyanesi
+
+    -   20 g un
+    -   30 g su
+    -   60 g süt
+
+2.  Hamur
+
+    -   120 g ılık süt
+    -   10 g kuru maya veya 20 g yaş maya
+    -   320 g un
+    -   1 tüm yumurta
+    -   1 yumurta sarısı
+    -   50 g oda sıcaklığında tereyağı
+    -   1 dolu çay kaşığı tuz
+
+3.  Üzeri İçin
+
+    -   1 yumurta sarısı
+
+
+### Tarif
+
+-   Süt meyanesi malzemelerini karıştırıp orta ateşte sürekli karıştırarak spatuladan akmayan,
+    koyu bir kıvam alana kadar pişir.
+-   Pişen süt meyanesini ocaktan al.
+-   Süt ve mayayı karıştırarak 10 dk beklet.
+-   Yoğurma kabında un, tuz ve şekeri karıştırıp ortasını çukurlaştır.
+-   Bekleyen mayalı sütü çukurun içine döküp ortadan kenarlara doğru karıştır.
+-   Süt meyanesi, yumurta ve yumurta sarısını ekleyip karıştırmaya devam et.
+-   Toparlanınca tezgaha alıp içine tereyağını ekleyip iyice yedir.
+-   Tezgahta hamuru iyice yoğur.
+-   Ele alınabilir kıvama geldiğinde vurup katlayarak yoğurmaya devam et.
+-   İyice pürüzsüz kıvama gelince yağlanan yoğurma kabına alıp kapağını kapatıp battaniyeye
+    sararak sıcak bir yerde yaklaşık 2 saat boyunca mayalanmaya bırak.
+-   Mayalanan hamuru tezgaha alıp 6 eşit parça olacak şekilde bezelere ayır.
+-   Bezeleri aralıklı olarak yağlı kağıt serili tepsiye dizip üzerini mutfak bezi ile örterek
+    yaklaşık 30 dk yeniden mayalanmaya bırak.
+-   Bir kabın içinde yumurta sarısını çırpıp fırça ile ekmeklerin üzerine sür.
+-   Önceden içine bir kap içerisinde su koyulmuş fırında yaklaşık 15-20 dk, kabarıp üzeri kızarana
+    kadar pişir.
+
+
+<a id="org295a197"></a>
+
+# Fast Food
+
+
+<a id="org3fd787e"></a>
+
+## Klasik Hamburger
+
+![img](./images/klasik-hamburger.jpeg)
+
+-   Zorluk: Orta
+
+
+### Malzemeler
+
+1.  Karamelize Soğan
+
+    -   1 yemek kaşığı zeytinyağı
+    -   1 adet büyük boy soğan
+    -   1 tatlı kaşığı şeker
+    -   1 tatlı kaşığı tereyağı
+
+2.  Sos
+
+    -   2 yemek kaşığı ketçap
+    -   2 yemek kaşığı mayonez
+    -   1 tatlı kaşığı hardal
+    -   1 yemek kaşığı turşu suyu
+
+3.  Hamburger
+
+    -   4 adet hamburger ekmeği
+    -   400 g kıyma (çift köfte için köfte başına 100 g ekle)
+    -   4 dilim burger peyniri
+    -   1 adet domates
+    -   4 yaprak marul
+    -   Karabiber
+    -   Tuz
+
+
+### Tarif
+
+-   Soğanı piyazlık doğra.
+-   Zeytinyağını tavada kızdırıp soğanları ekle.
+-   Soğanların suyu bittikçe azar azar su ekleyerek, orta ateşte, arada karıştırarak soğanları
+    karamelize et.
+-   Karamel rengini alan soğanlara şeker ekleyerek bir süre daha pişir.
+-   Üzerine tereyağı ekleyip iyice karıştır.
+-   Tereyağı tamamen eriyince ocaktan al.
+-   Sos için tüm sos malzemelerini bir kapta iyice karıştır.
+-   Domatesleri ince yuvarlaklar şeklinde dilimle.
+-   Marulları ince ince dilimle veya yaprak yaprak ayır.
+-   Hamburger koftelerini pişirmek için döküm tavayı en yüksek ateşte iyice ısıt.
+-   Köfteler için kıymadan 100 gramlık parçalar kopar.
+-   Parçaları yoğurmadan, doğrudan elle bastırarak, hamburger ekmeğinden biraz daha büyük
+    yuvarlaklar haline getir.
+-   Köftelerin her iki tarafına tuz ve karabiber dök.
+-   Kofteleri iyice ısınan döküm tavada, her yüzü 1.5 dakika olacak şekilde pişir.
+-   Kofteler pişmeye yakın her bir köftenin üzerine bir dilim burger peyniri koy.
+-   Burger peyniri eridiğinde köfteleri ocaktan al.
+-   Hamburger ekmeklerini kesip köftelerin piştiği tavada hafifçe kızart.
+-   Kızaran ekmeklere sostan sür.
+-   Ekmeğin üzerine hamburger köftesi, karamelize soğan, domates ve marul koyup üzerini kapat.
+
+
+<a id="org973fef1"></a>
+
+# Çorbalar
+
+
+<a id="org71414c7"></a>
+
+## Tavuk Sulu Yer Elması Çorbası
+
+![img](./images/tavuk-sulu-yer-elmasi-corbasi.jpeg)
+
+-   Zorluk: Kolay
+
+
+### Malzemeler
+
+-   1 kg yer elması
+-   1 yemek kaşığı zeytinyağı
+-   2 adet soğan
+-   4 yemek kaşığı un
+-   4 su bardağı tavuk suyu
+-   3 çay bardağı süt
+-   Karabiber
+-   Tuz
+
+
+### Tarif
+
+-   Yer elmalarını soyup irice dilimle.
+-   Soğanı zeytinyağında sotele.
+-   Yer elmalarını ekleyip iki dakika daha kavur.
+-   Unu ekleyip iyice karıştır.
+-   Tavuk suyunu ve tuzunu ve karabiberini ekleyip iyice karıştır.
+-   Yer elmaları iyice yumuşayana kadar, yaklaşık yarım saat kısık ateşte, kapağı kapalı şekilde
+    pişir.
+-   İyice pürüzsüz olana kadar blenderdan geçir.
+-   Sütünü ekleyip bir taşım daha kaynat.
 
