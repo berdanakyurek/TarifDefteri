@@ -498,24 +498,26 @@
 *** Malzemeler
     + 500 g un
     + 300 ml ılık su
-    + 1 paket yaş maya
+    + Yarım paket yaş maya
+    + 1 yemek kaşığı şeker
     + 1 tatlı kaşığı tuz
     + Susam
 
 *** Tarif
     + El yakmayacak sıcaklıkta ılık suyu, yaş maya ile karıştırarak 10 dakika beklet.
-    + Oda sıcaklığındaki un ve tuzu yoğurma kabına ekleyip ortasını çukurlaştır.
+    + Oda sıcaklığındaki un, tuz ve şekeri yoğurma kabına ekleyip, karıştırıp ortasını çukurlaştır.
     + Çukurun ortasına bekletilmiş mayalı suyu ilave et.
     + Kaşıkla ortadan dışlara doğru karıştır.
     + Elle yoğurmaya devam et.
-    + İyice yoğurulduktan sonra kapağını kapatıp mayalanma için battaniyeye sar.
+    + Un ve hamur birleştiğinde hamuru vurup katlayarak iyice pürüzsüz hale getir.
+    + Tekrar yoğurma kabına alıp, kapağını kapatıp mayalanma için battaniyeye sar.
     + Sıcak bir yerde en az 1, en fazla 4 saat mayalanmaya bırak.
-    + Mayalanıp kabaran hamuru tekrar yoğurarak havasını al.
+    + Mayalanıp kabaran hamuru tekrar hafifçe yoğurarak havasını al.
     + Hamuru hafif unlanmış tezgaha al.
-    + Hamuru istenen büyüklükte bezelere ayır.
+    + Hamuru istenen büyüklükte bezelere ayır (normal boyutta ekmekler için 3 eşit parçaya ayır).
     + Hamura ekmek şeklini verip tepsiye yerleştir.
     + Üzerlerine bıçakla çizikler at.
-    + Üzerine fırça ile su veya yoğurt sür.
+    + Üzerine fırça ile su sür.
     + Üzerine susam serp.
     + Üzerini mutfak bezi ile örtüp 20 dk sıcak bir yerde tekrar mayalanmaya bırak.
     + Fırının nemli olması için içine ısıya dayanıklı bir kapta su koyup fırını 200°C'ye ısıt.
@@ -558,3 +560,42 @@
     + Makarnaları 5-6 dakika haşla.
     + Haşlanan makarnaları süzgeç içine koyup süz.
     + Herhangi bir sos ile soslayarak servis et.
+
+** Hamburger Ekmeği
+   + Zorluk: Orta
+
+*** Malzemeler
+
+**** Süt Meyanesi
+     + 20 g un
+     + 30 g su
+     + 60 g süt
+**** Hamur
+     + 120 g ılık süt
+     + 10 g kuru maya veya 20 g yaş maya
+     + 320 g un
+     + 1 tüm yumurta
+     + 1 yumurta sarısı
+     + 50 g oda sıcaklığında tereyağı
+     + 1 dolu çay kaşığı tuz
+**** Üzeri
+     + 1 yumurta sarısı
+*** Tarif
+    + Süt meyanesi malzemelerini karıştırıp orta ateşte sürekli karıştırarak spatuladan akmayan,
+      koyu bir kıvam alana kadar pişir.
+    + Pişen süt meyanesini ocaktan al.
+    + Süt ve mayayı karıştırarak 10 dk beklet.
+    + Yoğurma kabında un, tuz ve şekeri karıştırıp ortasını çukurlaştır.
+    + Bekleyen mayalı sütü çukurun içine döküp ortadan kenarlara doğru karıştır.
+    + Süt meyanesi, yumurta ve yumurta sarısını ekleyip karıştırmaya devam et.
+    + Toparlanınca tezgaha alıp içine tereyağını ekleyip iyice yedir.
+    + Tezgahta hamuru iyice yoğur.
+    + Ele alınabilir kıvama geldiğinde vurup katlayarak yoğurmaya devam et.
+    + İyice pürüzsüz kıvama gelince yağlanan yoğurma kabına alıp kapağını kapatıp battaniyeye
+      sararak sıcak bir yerde yaklaşık 2 saat boyunca mayalanmaya bırak.
+    + Mayalanan hamuru tezgaha alıp 6 eşit parça olacak şekilde bezelere ayır.
+    + Bezeleri aralıklı olarak yağlı kağıt serili tepsiye dizip üzerini mutfak bezi ile örterek
+      yaklaşık 30 dk yeniden mayalanmaya bırak.
+    + Bir kabın içinde yumurta sarısını çırpıp fırça ile ekmeklerin üzerine sür.
+    + Önceden içine bir kap içerisinde su koyulmuş fırında yaklaşık 15-20 dk, kabarıp üzeri kızarana
+      kadar pişir.
