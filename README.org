@@ -562,6 +562,7 @@
     + Herhangi bir sos ile soslayarak servis et.
 
 ** Hamburger Ekmeği
+   [[./images/hamburger-ekmegi.jpeg]]
    + Zorluk: Orta
 
 *** Malzemeler
@@ -606,10 +607,10 @@
 * Fast Food
 
 ** Klasik Hamburger
+   [[./images/klasik-hamburger.jpeg]]
    + Zorluk: Orta
 
 *** Malzemeler
-
 **** Karamelize Soğan
      + 1 yemek kaşığı zeytinyağı
      + 1 adet büyük boy soğan
@@ -657,9 +658,10 @@
 * Çorbalar
 
 ** Tavuk Sulu Yer Elması Çorbası
+   [[./images/tavuk-sulu-yer-elmasi-corbasi.jpeg]]
+   + Zorluk: Kolay
 
 *** Malzemeler
-
     + 1 kg yer elması
     + 1 yemek kaşığı zeytinyağı
     + 2 adet soğan
