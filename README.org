@@ -570,6 +570,7 @@
      + 20 g un
      + 30 g su
      + 60 g süt
+
 **** Hamur
      + 120 g ılık süt
      + 10 g kuru maya veya 20 g yaş maya
@@ -578,8 +579,10 @@
      + 1 yumurta sarısı
      + 50 g oda sıcaklığında tereyağı
      + 1 dolu çay kaşığı tuz
-**** Üzeri
+
+**** Üzeri İçin
      + 1 yumurta sarısı
+
 *** Tarif
     + Süt meyanesi malzemelerini karıştırıp orta ateşte sürekli karıştırarak spatuladan akmayan,
       koyu bir kıvam alana kadar pişir.
@@ -599,3 +602,54 @@
     + Bir kabın içinde yumurta sarısını çırpıp fırça ile ekmeklerin üzerine sür.
     + Önceden içine bir kap içerisinde su koyulmuş fırında yaklaşık 15-20 dk, kabarıp üzeri kızarana
       kadar pişir.
+
+* Fast Food
+
+** Klasik Hamburger
+   + Zorluk: Orta
+
+*** Malzemeler
+
+**** Karamelize Soğan
+     + 1 yemek kaşığı zeytinyağı
+     + 1 adet büyük boy soğan
+     + 1 tatlı kaşığı şeker
+     + 1 tatlı kaşığı tereyağı
+
+**** Sos
+     + 2 yemek kaşığı ketçap
+     + 2 yemek kaşığı mayonez
+     + 1 tatlı kaşığı hardal
+     + 1 yemek kaşığı turşu suyu
+
+**** Hamburger
+     + 4 adet hamburger ekmeği
+     + 400 g kıyma (çift köfte için köfte başına 100 g ekle)
+     + 4 dilim burger peyniri
+     + 1 adet domates
+     + 4 yaprak marul
+     + Karabiber
+     + Tuz
+
+*** Tarif
+    + Soğanı piyazlık doğra.
+    + Zeytinyağını tavada kızdırıp soğanları ekle.
+    + Soğanların suyu bittikçe azar azar su ekleyerek, orta ateşte, arada karıştırarak soğanları
+      karamelize et.
+    + Karamel rengini alan soğanlara şeker ekleyerek bir süre daha pişir.
+    + Üzerine tereyağı ekleyip iyice karıştır.
+    + Tereyağı tamamen eriyince ocaktan al.
+    + Sos için tüm sos malzemelerini bir kapta iyice karıştır.
+    + Domatesleri ince yuvarlaklar şeklinde dilimle.
+    + Marulları ince ince dilimle veya yaprak yaprak ayır.
+    + Hamburger koftelerini pişirmek için döküm tavayı en yüksek ateşte iyice ısıt.
+    + Köfteler için kıymadan 100 gramlık parçalar kopar.
+    + Parçaları yoğurmadan, doğrudan elle bastırarak, hamburger ekmeğinden biraz daha büyük
+      yuvarlaklar haline getir.
+    + Köftelerin her iki tarafına tuz ve karabiber dök.
+    + Kofteleri iyice ısınan döküm tavada, her yüzü 1.5 dakika olacak şekilde pişir.
+    + Kofteler pişmeye yakın her bir köftenin üzerine bir dilim burger peyniri koy.
+    + Burger peyniri eridiğinde köfteleri ocaktan al.
+    + Hamburger ekmeklerini kesip köftelerin piştiği tavada hafifçe kızart.
+    + Kızaran ekmeklere sostan sür.
+    + Ekmeğin üzerine hamburger köftesi, karamelize soğan, domates ve marul koyup üzerini kapat.
