@@ -1,42 +1,43 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#orgc192a10)
-    1.  [Soğan Kebabı](#org9740eb3)
-2.  [Tavuk Yemekleri](#org9ff7465)
-    1.  [Kayısı Marmelatlı Tavuk](#org6414cd2)
-    2.  [Soya Soslu Sebzeli Tavuk](#org647db11)
-3.  [Kahvaltılıklar](#orged4c489)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orgcba9331)
-    2.  [Avokadolu Yumurta Dolması](#orgd123464)
-    3.  [Fesleğenli Krem Peynir](#org6e53f5d)
-4.  [Makarnalar](#orgd1835cc)
-    1.  [Domates ve Fesleğenli Makarna](#orgb0fc546)
-5.  [Tatlılar](#org3f65421)
-    1.  [Frambuazlı Yaş Pasta](#org3ae92f0)
-    2.  [Leblebili Kurabiye](#org6cf9250)
-    3.  [San Sebastian Cheesecake](#org738c74b)
-    4.  [Bisküvili Çikolata Topları](#orgc151f8d)
-    5.  [Kıtır Karpuz Kabuğu Tatlısı](#orgf1461a5)
-    6.  [Ispanaklı Pasta](#orgbf25174)
-    7.  [Şerbetli Çatlak Kurabiye](#org4651d1c)
-6.  [Hamur İşleri](#orgeb80826)
-    1.  [Beyaz Ekmek](#orgeb1b340)
-    2.  [Taze Makarna](#orgb81fd70)
-    3.  [Hamburger Ekmeği](#org127ec03)
-7.  [Fast Food](#org295a197)
-    1.  [Klasik Hamburger](#org3fd787e)
-8.  [Çorbalar](#org973fef1)
-    1.  [Tavuk Sulu Yer Elması Çorbası](#org71414c7)
+1.  [Et Yemekleri](#orgb737daf)
+    1.  [Soğan Kebabı](#org9d8f711)
+2.  [Tavuk Yemekleri](#org767747c)
+    1.  [Kayısı Marmelatlı Tavuk](#org9e078e9)
+    2.  [Soya Soslu Sebzeli Tavuk](#org23d1eec)
+3.  [Kahvaltılıklar](#org9db27fe)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#orge97a822)
+    2.  [Avokadolu Yumurta Dolması](#orgaab045b)
+    3.  [Fesleğenli Krem Peynir](#orgdd426c9)
+4.  [Makarnalar](#org65e39bc)
+    1.  [Domates ve Fesleğenli Makarna](#orgb18073e)
+5.  [Tatlılar](#org5ea72d8)
+    1.  [Frambuazlı Yaş Pasta](#orge09d7a9)
+    2.  [Leblebili Kurabiye](#orgdeb9c2d)
+    3.  [San Sebastian Cheesecake](#org5b837e5)
+    4.  [Bisküvili Çikolata Topları](#org09fed4b)
+    5.  [Kıtır Karpuz Kabuğu Tatlısı](#orga047c1a)
+    6.  [Ispanaklı Pasta](#orgeb90f44)
+    7.  [Şerbetli Çatlak Kurabiye](#org3325200)
+6.  [Hamur İşleri](#orga1c0b50)
+    1.  [Beyaz Ekmek](#orgf5bda81)
+    2.  [Taze Makarna](#org51b41cc)
+    3.  [Hamburger Ekmeği](#orga5bbc01)
+    4.  [Ekşi Mayalı Ekmek](#orgada9542)
+7.  [Fast Food](#org75da797)
+    1.  [Klasik Hamburger](#orge2d8dfe)
+8.  [Çorbalar](#orgf9732b9)
+    1.  [Tavuk Sulu Yer Elması Çorbası](#org526e649)
 
 
 
-<a id="orgc192a10"></a>
+<a id="orgb737daf"></a>
 
 # Et Yemekleri
 
 
-<a id="org9740eb3"></a>
+<a id="org9d8f711"></a>
 
 ## Soğan Kebabı
 
@@ -75,12 +76,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200°C fırında 1 saat pişir.
 
 
-<a id="org9ff7465"></a>
+<a id="org767747c"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="org6414cd2"></a>
+<a id="org9e078e9"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -120,7 +121,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="org647db11"></a>
+<a id="org23d1eec"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -160,12 +161,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="orged4c489"></a>
+<a id="org9db27fe"></a>
 
 # Kahvaltılıklar
 
 
-<a id="orgcba9331"></a>
+<a id="orge97a822"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -207,7 +208,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="orgd123464"></a>
+<a id="orgaab045b"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -250,7 +251,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org6e53f5d"></a>
+<a id="orgdd426c9"></a>
 
 ## Fesleğenli Krem Peynir
 
@@ -285,12 +286,12 @@ Bir parçada (yarım yumurta):
 -   Beyaz peyniri istenen aroma ve kıvam elde edilene kadar yavaş yavaş ekleyip robottan geçir.
 
 
-<a id="orgd1835cc"></a>
+<a id="org65e39bc"></a>
 
 # Makarnalar
 
 
-<a id="orgb0fc546"></a>
+<a id="orgb18073e"></a>
 
 ## Domates ve Fesleğenli Makarna
 
@@ -326,12 +327,12 @@ Bir parçada (yarım yumurta):
 -   Haşlanıp süzülen makarnaları iyice sos ile harmanla.
 
 
-<a id="org3f65421"></a>
+<a id="org5ea72d8"></a>
 
 # Tatlılar
 
 
-<a id="org3ae92f0"></a>
+<a id="orge09d7a9"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -431,7 +432,7 @@ Bir dilimde (tüm tarif 8 dilim):
     -   Her krema yığının üzerine bir adet frambuaz ekle.
 
 
-<a id="org6cf9250"></a>
+<a id="orgdeb9c2d"></a>
 
 ## Leblebili Kurabiye
 
@@ -462,7 +463,7 @@ TODO
 -   180°C fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="org738c74b"></a>
+<a id="org5b837e5"></a>
 
 ## San Sebastian Cheesecake
 
@@ -501,7 +502,7 @@ Bir dilimde (tüm tarif 8 dilim):
 -   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
 
-<a id="orgc151f8d"></a>
+<a id="org09fed4b"></a>
 
 ## Bisküvili Çikolata Topları
 
@@ -537,7 +538,7 @@ TODO
 -   Buzdolabında en az bir saat soğut.
 
 
-<a id="orgf1461a5"></a>
+<a id="orga047c1a"></a>
 
 ## Kıtır Karpuz Kabuğu Tatlısı
 
@@ -568,7 +569,7 @@ TODO
 -   Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
 
 
-<a id="orgbf25174"></a>
+<a id="orgeb90f44"></a>
 
 ## Ispanaklı Pasta
 
@@ -652,7 +653,7 @@ Bir dilimde (tüm tarif 15 dilim):
     -   Ufalanan kek parçalarını en üste serpiştir.
 
 
-<a id="org4651d1c"></a>
+<a id="org3325200"></a>
 
 ## Şerbetli Çatlak Kurabiye
 
@@ -704,12 +705,12 @@ Bir kurabiyede (tüm tarif 23 kurabiye):
 -   Kalan şerbeti kurabiyelerin üzerine gezdir.
 
 
-<a id="orgeb80826"></a>
+<a id="orga1c0b50"></a>
 
 # Hamur İşleri
 
 
-<a id="orgeb1b340"></a>
+<a id="orgf5bda81"></a>
 
 ## Beyaz Ekmek
 
@@ -750,7 +751,7 @@ Bir kurabiyede (tüm tarif 23 kurabiye):
 -   Bekleyen hamurların üzerini açıp fırında yaklaşık 20 dk pişir.
 
 
-<a id="orgb81fd70"></a>
+<a id="org51b41cc"></a>
 
 ## Taze Makarna
 
@@ -796,7 +797,7 @@ Bir kurabiyede (tüm tarif 23 kurabiye):
 -   Herhangi bir sos ile soslayarak servis et.
 
 
-<a id="org127ec03"></a>
+<a id="orga5bbc01"></a>
 
 ## Hamburger Ekmeği
 
@@ -850,12 +851,63 @@ Bir kurabiyede (tüm tarif 23 kurabiye):
     kadar pişir.
 
 
-<a id="org295a197"></a>
+<a id="orgada9542"></a>
+
+## Ekşi Mayalı Ekmek
+
+![img](./images/eksi_mayali_ekmek.jpeg)
+
+-   Zorluk: Zor
+
+
+### Malzemeler
+
+-   200 g ekşi maya
+-   300 g beyaz un
+-   200 g tam buğday unu
+-   350 ml oda sıcaklığında su
+-   10 g tuz
+
+
+### Tarif
+
+-   Ekşi maya dolaptaysa bir gün önceden dolaptan çıkarıp oda sıcaklığında en az 4-5 saat aralıkla
+    2-3 sefer besle.
+-   Son beslemeden 4-6 saat sonra hamuru hazırlamaya başla.
+-   Yoğurma kabında unlar ve tuzu karıştır.
+-   Mayanın yüzüp yüzmediğini kontrol edip yüzüyorsa suyla karıştır.
+-   Kalan mayayı besleyip gerekiyorsa buzdolabına kaldır.
+-   Unun ortasını çukurlaştırıp mayalı su karışımını dök.
+-   Hamur yoğurma makinesinde veya elde vurup katlayarak yoğur.
+-   Hamuru mayalanması için bir kaba alıp yarım saatte bir (toplam 4 kere) katlayarak 2.5 saat
+    boyunca oda sıcaklığında mayalandır.
+-   Her katlamada ıslak elle alttan hava aldırarak üstten aşağı doğru katla.
+-   2.5 saatin sonunda tezgahı unlayıp hamuru tezgaha tepetaklak ederek al.
+-   Elle hamuru hafifçe açıp kare haline getir.
+-   Önce hamuru üçe katlayıp sonra öbür tarafından dürüm gibi sar.
+-   Kazıyıcı ile altını itekleyip çevirerek şekillendir.
+-   Mutfak bezini tezgaha alıp bolca unla.
+-   Mutfak bezine hamuru tepetaklak ederek koy (yamuk yüzü üstte kalacak).
+-   Hamurun üzerini de bolca unla.
+-   Mutfak bezini bohça gibi kapatarak tekrar kaba al.
+-   Hamuru üstü bezle örtülü ve kapaksız şekilde oda sıcaklığında 6 saat veya buzdolabında 24 saat
+    boyunca mayalandır.
+-   Mayalanma süresinin bitmesine bir saat kala fırının dibine su döküp, içerisine fırın taşını
+    koyup ısıtmaya başla.
+-   Mayalanma süresi bittiğinde fırın küreğinin üzerine ekmeği tepetaklak ederek al (yamuk yüzü
+    altta kalacak).
+-   Fırça ile etrafındaki fazla unları temizle.
+-   Jiletle ekmeğin üstüne çizikler at.
+-   Fırını açıp ekmeği hızlıca içine atıp fırını kapat.
+-   Fırında ekmeği 30-40 dakika pişir.
+
+
+<a id="org75da797"></a>
 
 # Fast Food
 
 
-<a id="org3fd787e"></a>
+<a id="orge2d8dfe"></a>
 
 ## Klasik Hamburger
 
@@ -916,12 +968,12 @@ Bir kurabiyede (tüm tarif 23 kurabiye):
 -   Ekmeğin üzerine hamburger köftesi, karamelize soğan, domates ve marul koyup üzerini kapat.
 
 
-<a id="org973fef1"></a>
+<a id="orgf9732b9"></a>
 
 # Çorbalar
 
 
-<a id="org71414c7"></a>
+<a id="org526e649"></a>
 
 ## Tavuk Sulu Yer Elması Çorbası
 
