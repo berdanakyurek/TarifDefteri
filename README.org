@@ -799,6 +799,13 @@ seb#+LANGUAGE: tr
    [[./images/etli_pazi_bohcasi.jpeg]]
    + Zorluk: Orta
 
+*** Besin Değerleri
+    Bir adette (tüm tarif 8 adet):
+    + 426 kcal
+    + 19 g protein
+    + 45 g karbonhidrat
+    + 18 g yağ
+
 *** Malzemeler
     + 8-10 iri yaprak pazı (yaklaşık 2 bağ)
     + 2 yemek kaşığı sıvı yağ
