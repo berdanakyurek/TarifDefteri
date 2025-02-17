@@ -1,4 +1,4 @@
-#+LANGUAGE: tr
+seb#+LANGUAGE: tr
 #+OPTIONS: toc:2
 
 * Et Yemekleri
@@ -792,3 +792,55 @@
       pişir.
     + İyice pürüzsüz olana kadar blenderdan geçir.
     + Sütünü ekleyip bir taşım daha kaynat.
+
+* Sebze Yemekleri
+
+** Etli Pazı Bohçası
+   [[./images/etli_pazi_bohcasi.jpeg]]
+   + Zorluk: Orta
+
+*** Malzemeler
+    + 8-10 iri yaprak pazı (yaklaşık 2 bağ)
+    + 2 yemek kaşığı sıvı yağ
+    + 3 adet soğan
+    + 2 diş sarımsak
+    + 500 g kıyma
+    + 1 paket dolmalık fıstık
+    + 1 yemek kaşığı domates salçası
+    + 1 yemek kaşığı biber salçası
+    + 2 su bardağı pirinç
+    + 1 yemek kaşığı kuş üzümü
+    + Tuz
+    + Karabiber
+    + 3 su bardağı sıcak su
+
+**** Üzeri için
+     + 1 yemek kaşığı domates salçası
+     + 1.5 su bardağı sıcak su
+     + Tuz
+
+*** Tarif
+    + Soğanları yemeklik doğra.
+    + Sarımsakları ez.
+    + Soğan, sarımsak ve dolmalık fıstığı sıvı yağ ile kavur.
+    + Soğanlar biraz kavrulunca kıymayı ekle.
+    + Kıymanın rengi dönünce salçaları ekleyip kavurmaya devam et.
+    + Salçanın kokusu çıkınca pirinç, kuş üzümü ve baharatları ekleyip kavur.
+    + Sıcak suyu da ilave edip kapağını kapatarak kısık ateşte suyunu çekene kadar pişir.
+    + Suyunu çektiğınde tadına bak. Pirinçler hala sertse bir miktar daha su ilave edip pişirmeye
+      devam et.
+    + İç harcı pişince kapağını kapatıp 30 dakika dinlendir.
+    + Pazıları haşlamak için bir tencerede su kaynat.
+    + Bir kapta buzlu su hazırla.
+    + Yıkanan pazıları kaynayan suyun içine atıp, tamamen batırıp yaklaşık bir dakika beklet.
+    + Pazıları sıcak sudan kevgirle alıp hemen buzlu suya at.
+    + Pazılar iyice soğuyunca buzlu sudan alıp süzgeçte suyunu süz.
+    + Her bir pazı bohçası içın bir pazı yaprağı al, sap kısmının fazlasını kesip bir çorba
+      kasesinin içine, ortası kasenin tabanına ve damarlı kısmı aşağıya denk gelecek şekilde
+      yerleştir.
+    + İçine kaşıkla uygun miktarda harç koy.
+    + Yaprağın önce kısa kenarlarını, sonra uzun kenarlarını katlayarak hohça haline getir.
+    + Bohçaları yağlı kağıt serili fırın tepsisi veya borcama diz.
+    + Üzeri için domates salçasını sıcak suyla ve tuzla karıştırıp kaşıkla bohçaların üzerine pay
+      et.
+    + 200°C fırında yapraklar iyice yumuşayana kadar pişir.
