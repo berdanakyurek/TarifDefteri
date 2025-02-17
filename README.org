@@ -1,4 +1,4 @@
-seb#+LANGUAGE: tr
+#+LANGUAGE: tr
 #+OPTIONS: toc:2
 
 * Et Yemekleri
