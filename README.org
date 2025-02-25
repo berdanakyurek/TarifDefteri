@@ -558,6 +558,36 @@
     + İlk sıcağı çıkan sıcak baklavanın üzerine ılık şerbeti gezdir.
     + Şerbeti çekmesi için en az iki saat dinlendir.
 
+** Protein Tiramisu
+   [[./images/protein_tiramisu.jpeg]]
+   + Zorluk: Kolay
+
+*** Besin Değerleri
+     Bir adette (tüm tarif 1 adet):
+     + 328 kcal
+     + 23 g protein
+     + 52 g karbonhidrat
+     + 4 g yağ
+
+*** Malzemeler
+    + 3 adet prinç patlağı
+    + 165 g protein quark
+    + 1 bardak kahve (americano, filtre kahve veya nescafe)
+    + 1 yemek kaşığı bal
+    + 1 yemek kaşığı süt
+    + 1 tatlı kaşığı kakao
+
+*** Tarif
+    + Quark ile balı karıştır.
+    + Azar azar süt ekleyerek kıvamını sürülebilir ama çok akışkan olmayan bir kıvama ayarla.
+    + Bir bardak kahveyi tabağın içerisine al.
+    + Bir adet pirinç patlağını kahveye batır.
+    + Pirinç patlağı kahveyi biraz emene kadar, birkaç saniye beklet.
+    + Kahveye bulanmış pirinç patlağını servis tabağına al.
+    + Üzerine quarklı karışımın üçte birini yay.
+    + Aynı işlemi üç kere tekrar et.
+    + En üstteki kremanın üzerine ince süzgeç ile kakaoyu serp.
+
 * Hamur İşleri
 
 ** Beyaz Ekmek
