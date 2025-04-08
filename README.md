@@ -1,48 +1,48 @@
 
 # İçindekiler
 
-1.  [Et Yemekleri](#org682ba04)
-    1.  [Soğan Kebabı](#org68108ed)
-2.  [Tavuk Yemekleri](#org9b843d4)
-    1.  [Kayısı Marmelatlı Tavuk](#orgcf2a68e)
-    2.  [Soya Soslu Sebzeli Tavuk](#orgdf74996)
-3.  [Kahvaltılıklar](#org0384506)
-    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org16b12b3)
-    2.  [Avokadolu Yumurta Dolması](#org1a167e9)
-    3.  [Fesleğenli Krem Peynir](#org6e6d190)
-4.  [Makarnalar](#org8a6c21e)
-    1.  [Domates ve Fesleğenli Makarna](#org7ccf6a2)
-5.  [Tatlılar](#orgc6224df)
-    1.  [Frambuazlı Yaş Pasta](#org986c1ce)
-    2.  [Leblebili Kurabiye](#orgc3c8761)
-    3.  [San Sebastian Cheesecake](#org97144cd)
-    4.  [Bisküvili Çikolata Topları](#orgcf116ad)
-    5.  [Kıtır Karpuz Kabuğu Tatlısı](#org8176118)
-    6.  [Ispanaklı Pasta](#org691fd0a)
-    7.  [Şerbetli Çatlak Kurabiye](#orgb4a20ec)
-    8.  [Cevizli Ev Baklavası](#orgaefe977)
-    9.  [Protein Tiramisu](#org227e0f4)
-    10. [Protein Jöle](#org5a99926)
-6.  [Hamur İşleri](#orgf08bcbe)
-    1.  [Beyaz Ekmek](#orgd7cc699)
-    2.  [Taze Makarna](#orgba1056b)
-    3.  [Hamburger Ekmeği](#orgfe30c90)
-    4.  [Ekşi Mayalı Ekmek](#org0d8709f)
-7.  [Fast Food](#org3edf156)
-    1.  [Klasik Hamburger](#orga7ce454)
-8.  [Çorbalar](#org9171e4e)
-    1.  [Tavuk Sulu Yer Elması Çorbası](#org9a0eba9)
-9.  [Sebze Yemekleri](#orgcc2edbf)
-    1.  [Etli Pazı Bohçası](#orga56cfd1)
+1.  [Et Yemekleri](#org6f64727)
+    1.  [Soğan Kebabı](#orgaafca3b)
+2.  [Tavuk Yemekleri](#orgd968804)
+    1.  [Kayısı Marmelatlı Tavuk](#orgdf65665)
+    2.  [Soya Soslu Sebzeli Tavuk](#orga2b1f39)
+3.  [Kahvaltılıklar](#org00edaf3)
+    1.  [Füme Kaburga Ve Cheddarlı Yumurta Dolması](#org5247366)
+    2.  [Avokadolu Yumurta Dolması](#org1d7891b)
+    3.  [Fesleğenli Krem Peynir](#orgef99cea)
+4.  [Makarnalar](#orgb131ffc)
+    1.  [Domates ve Fesleğenli Makarna](#orgd004d62)
+5.  [Tatlılar](#org4a9ec82)
+    1.  [Frambuazlı Yaş Pasta](#org7e831a8)
+    2.  [Leblebili Kurabiye](#org4e04576)
+    3.  [San Sebastian Cheesecake](#org460f845)
+    4.  [Bisküvili Çikolata Topları](#org5216274)
+    5.  [Kıtır Karpuz Kabuğu Tatlısı](#org9a48e0a)
+    6.  [Ispanaklı Pasta](#org0a28ffa)
+    7.  [Şerbetli Çatlak Kurabiye](#org90a6e98)
+    8.  [Cevizli Ev Baklavası](#orgb980949)
+    9.  [Protein Tiramisu](#orgfd52dda)
+    10. [Protein Jöle](#org8f970d3)
+6.  [Hamur İşleri](#orgc1a0cd9)
+    1.  [Beyaz Ekmek](#orgf2e214c)
+    2.  [Taze Makarna](#org6fdca3f)
+    3.  [Hamburger Ekmeği](#orgbb26af9)
+    4.  [Ekşi Mayalı Ekmek](#org97b3849)
+7.  [Fast Food](#org01ada00)
+    1.  [Klasik Hamburger](#orge289947)
+8.  [Çorbalar](#org92c2798)
+    1.  [Tavuk Sulu Yer Elması Çorbası](#org59beacd)
+9.  [Sebze Yemekleri](#org9c41c2f)
+    1.  [Etli Pazı Bohçası](#org42de3af)
 
 
 
-<a id="org682ba04"></a>
+<a id="org6f64727"></a>
 
 # Et Yemekleri
 
 
-<a id="org68108ed"></a>
+<a id="orgaafca3b"></a>
 
 ## Soğan Kebabı
 
@@ -81,12 +81,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   200°C fırında 1 saat pişir.
 
 
-<a id="org9b843d4"></a>
+<a id="orgd968804"></a>
 
 # Tavuk Yemekleri
 
 
-<a id="orgcf2a68e"></a>
+<a id="orgdf65665"></a>
 
 ## Kayısı Marmelatlı Tavuk
 
@@ -126,7 +126,7 @@ Bir parçada (tarifin tamamı 12 parça):
 -   10 dakikada bir fırını açıp dibindeki sosu tavukların üzerine dökerek tavukları ıslat.
 
 
-<a id="orgdf74996"></a>
+<a id="orga2b1f39"></a>
 
 ## Soya Soslu Sebzeli Tavuk
 
@@ -166,12 +166,12 @@ Bir porsiyonda (tarifin tamamı 5 porsiyon):
 -   Mantarları söğüş doğrayıp tavuklara ekle, fazla öldürmeden pişir.
 
 
-<a id="org0384506"></a>
+<a id="org00edaf3"></a>
 
 # Kahvaltılıklar
 
 
-<a id="org16b12b3"></a>
+<a id="org5247366"></a>
 
 ## Füme Kaburga Ve Cheddarlı Yumurta Dolması
 
@@ -213,7 +213,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org1a167e9"></a>
+<a id="org1d7891b"></a>
 
 ## Avokadolu Yumurta Dolması
 
@@ -256,7 +256,7 @@ Bir parçada (yarım yumurta):
 -   Karışımı sıkma torbasına doldurup yumurta beyazlarının içine sık.
 
 
-<a id="org6e6d190"></a>
+<a id="orgef99cea"></a>
 
 ## Fesleğenli Krem Peynir
 
@@ -291,12 +291,12 @@ Bir parçada (yarım yumurta):
 -   Beyaz peyniri istenen aroma ve kıvam elde edilene kadar yavaş yavaş ekleyip robottan geçir.
 
 
-<a id="org8a6c21e"></a>
+<a id="orgb131ffc"></a>
 
 # Makarnalar
 
 
-<a id="org7ccf6a2"></a>
+<a id="orgd004d62"></a>
 
 ## Domates ve Fesleğenli Makarna
 
@@ -332,12 +332,12 @@ Bir parçada (yarım yumurta):
 -   Haşlanıp süzülen makarnaları iyice sos ile harmanla.
 
 
-<a id="orgc6224df"></a>
+<a id="org4a9ec82"></a>
 
 # Tatlılar
 
 
-<a id="org986c1ce"></a>
+<a id="org7e831a8"></a>
 
 ## Frambuazlı Yaş Pasta
 
@@ -437,7 +437,7 @@ Bir dilimde (tüm tarif 8 dilim):
     -   Her krema yığının üzerine bir adet frambuaz ekle.
 
 
-<a id="orgc3c8761"></a>
+<a id="org4e04576"></a>
 
 ## Leblebili Kurabiye
 
@@ -468,7 +468,7 @@ TODO
 -   180°C fırında 10-15 dakika kontrollü pişir. Hala yumuşakken alınması gerekiyor. Fırından çıkınca sertleşiyor.
 
 
-<a id="org97144cd"></a>
+<a id="org460f845"></a>
 
 ## San Sebastian Cheesecake
 
@@ -509,7 +509,7 @@ Bir dilimde (tüm tarif 8 dilim):
 -   Süre dolduğunda fırını kapatıp, kapağını açıp 1 saat soğumaya bırak.
 
 
-<a id="orgcf116ad"></a>
+<a id="org5216274"></a>
 
 ## Bisküvili Çikolata Topları
 
@@ -545,7 +545,7 @@ TODO
 -   Buzdolabında en az bir saat soğut.
 
 
-<a id="org8176118"></a>
+<a id="org9a48e0a"></a>
 
 ## Kıtır Karpuz Kabuğu Tatlısı
 
@@ -576,7 +576,7 @@ TODO
 -   Soğuduktan sonra tekrar suyunu iyice çekene kadar kaynat.
 
 
-<a id="org691fd0a"></a>
+<a id="org0a28ffa"></a>
 
 ## Ispanaklı Pasta
 
@@ -660,7 +660,7 @@ Bir dilimde (tüm tarif 15 dilim):
     -   Ufalanan kek parçalarını en üste serpiştir.
 
 
-<a id="orgb4a20ec"></a>
+<a id="org90a6e98"></a>
 
 ## Şerbetli Çatlak Kurabiye
 
@@ -712,7 +712,7 @@ Bir kurabiyede (tüm tarif 23 kurabiye):
 -   Kalan şerbeti kurabiyelerin üzerine gezdir.
 
 
-<a id="orgaefe977"></a>
+<a id="orgb980949"></a>
 
 ## Cevizli Ev Baklavası
 
@@ -750,7 +750,7 @@ Bir kurabiyede (tüm tarif 23 kurabiye):
 
 4.  Açmak için
 
-    -   Bolca nişasta
+    -   Bolca nişasta (yaklaşık 450 g)
 
 
 ### Tarif
@@ -792,7 +792,7 @@ Bir kurabiyede (tüm tarif 23 kurabiye):
 -   Şerbeti çekmesi için en az iki saat dinlendir.
 
 
-<a id="org227e0f4"></a>
+<a id="orgfd52dda"></a>
 
 ## Protein Tiramisu
 
@@ -834,7 +834,7 @@ Bir adette (tüm tarif 1 adet):
 -   En üstteki kremanın üzerine ince süzgeç ile kakaoyu serp.
 
 
-<a id="org5a99926"></a>
+<a id="org8f970d3"></a>
 
 ## Protein Jöle
 
@@ -869,12 +869,12 @@ Bir dilimde (tüm tarif 4 dilim):
 -   Buzdolabında en az bir saat beklet.
 
 
-<a id="orgf08bcbe"></a>
+<a id="orgc1a0cd9"></a>
 
 # Hamur İşleri
 
 
-<a id="orgd7cc699"></a>
+<a id="orgf2e214c"></a>
 
 ## Beyaz Ekmek
 
@@ -915,7 +915,7 @@ Bir dilimde (tüm tarif 4 dilim):
 -   Bekleyen hamurların üzerini açıp fırında yaklaşık 20 dk pişir.
 
 
-<a id="orgba1056b"></a>
+<a id="org6fdca3f"></a>
 
 ## Taze Makarna
 
@@ -961,7 +961,7 @@ Bir dilimde (tüm tarif 4 dilim):
 -   Herhangi bir sos ile soslayarak servis et.
 
 
-<a id="orgfe30c90"></a>
+<a id="orgbb26af9"></a>
 
 ## Hamburger Ekmeği
 
@@ -1015,7 +1015,7 @@ Bir dilimde (tüm tarif 4 dilim):
     kadar pişir.
 
 
-<a id="org0d8709f"></a>
+<a id="org97b3849"></a>
 
 ## Ekşi Mayalı Ekmek
 
@@ -1066,12 +1066,12 @@ Bir dilimde (tüm tarif 4 dilim):
 -   Fırında ekmeği 30-40 dakika pişir.
 
 
-<a id="org3edf156"></a>
+<a id="org01ada00"></a>
 
 # Fast Food
 
 
-<a id="orga7ce454"></a>
+<a id="orge289947"></a>
 
 ## Klasik Hamburger
 
@@ -1132,12 +1132,12 @@ Bir dilimde (tüm tarif 4 dilim):
 -   Ekmeğin üzerine hamburger köftesi, karamelize soğan, domates ve marul koyup üzerini kapat.
 
 
-<a id="org9171e4e"></a>
+<a id="org92c2798"></a>
 
 # Çorbalar
 
 
-<a id="org9a0eba9"></a>
+<a id="org59beacd"></a>
 
 ## Tavuk Sulu Yer Elması Çorbası
 
@@ -1171,12 +1171,12 @@ Bir dilimde (tüm tarif 4 dilim):
 -   Sütünü ekleyip bir taşım daha kaynat.
 
 
-<a id="orgcc2edbf"></a>
+<a id="org9c41c2f"></a>
 
 # Sebze Yemekleri
 
 
-<a id="orga56cfd1"></a>
+<a id="org42de3af"></a>
 
 ## Etli Pazı Bohçası
 
