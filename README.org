@@ -514,7 +514,7 @@
 
 **** Arası İçin
      + 750 g ceviz
-     + 400 g tereyağı veya sade yağ
+     + 500 g tereyağı veya sade yağ
      + 1.5 çay bardağı sıvı yağ
 
 **** Açmak için
@@ -587,6 +587,29 @@
     + Üzerine quarklı karışımın üçte birini yay.
     + Aynı işlemi üç kere tekrar et.
     + En üstteki kremanın üzerine ince süzgeç ile kakaoyu serp.
+
+** Protein Jöle
+   [[./images/protein_jole.jpeg]]
+   + Zorluk: Kolay
+
+*** Besin Değerleri
+    Bir dilimde (tüm tarif 4 dilim):
+     + 95 kcal
+     + 14 g protein
+     + 8 g karbonhidrat
+     + 1 g yağ
+
+*** Malzemeler
+    + 300 ml süt
+    + 12 g toz jelatin
+    + 60 g aromalı whey protein tozu
+
+*** Tarif
+    + Sütü ısıt.
+    + Isınan süte jelatin ekleyip biraz çırp.
+    + Protein tozunu da ekleyip iyice köpürene kadar çırp.
+    + Tabanı ıslatılmış borcama dök.
+    + Buzdolabında en az bir saat beklet.
 
 * Hamur İşleri
 
